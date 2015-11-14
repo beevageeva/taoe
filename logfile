@@ -1,0 +1,91 @@
+
+Nov  4 19:37: IMCOMBINE
+  combine = average, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  red/B141025_0001.fits
+  red/B141025_0002.fits
+  red/B141025_0003.fits
+  red/B141025_0004.fits
+  red/B141025_0005.fits
+  red/B141025_0006.fits
+  red/B141025_0007.fits
+  red/B141025_0008.fits
+  red/B141025_0009.fits
+  red/B141025_0010.fits
+  red/B141025_0011.fits
+  red/B141025_0012.fits
+  red/B141025_0013.fits
+  red/B141025_0014.fits
+  red/B141025_0015.fits
+  red/B141025_0016.fits
+  red/B141025_0017.fits
+  red/B141025_0018.fits
+  red/B141025_0019.fits
+  red/B141025_0020.fits
+  red/B141025_0021.fits
+
+  Output image = bias_comb, ncombine = 21
+
+Nov  4 19:50: IMCOMBINE
+  combine = average, scale = median, zero = none, weight = none
+  reject = avsigclip, mclip = yes, nkeep = 1
+  lsigma = 3., hsigma = 3.
+  blank = 1.
+                Images   Median  Scale
+  red/b_F141025_0117.fits  28711.  1.011
+  red/b_F141025_0118.fits  28725.  1.010
+  red/b_F141025_0119.fits  28742.  1.009
+  red/b_F141025_0120.fits  28871.  1.005
+  red/b_F141025_0121.fits  29152.  0.995
+  red/b_F141025_0122.fits  29226.  0.993
+  red/b_F141025_0123.fits  29170.  0.995
+  red/b_F141025_0124.fits  29025.  1.000
+  red/b_F141025_0125.fits  29157.  0.995
+  red/b_F141025_0126.fits  29151.  0.995
+  red/b_F141025_0127.fits  29222.  0.993
+
+  Output image = flat_comb, ncombine = 11
+
+Nov  4 19:51: IMCOMBINE
+  combine = average, scale = median, zero = none, weight = none
+  reject = avsigclip, mclip = yes, nkeep = 1
+  lsigma = 3., hsigma = 3.
+  blank = 1.
+  statsec = [750:1250,750:1250]
+                Images   Median  Scale
+  red/b_F141025_0117.fits  28966.  1.010
+  red/b_F141025_0118.fits  28968.  1.010
+  red/b_F141025_0119.fits  28973.  1.010
+  red/b_F141025_0120.fits  29103.  1.005
+  red/b_F141025_0121.fits  29387.  0.995
+  red/b_F141025_0122.fits  29479.  0.992
+  red/b_F141025_0123.fits  29403.  0.995
+  red/b_F141025_0124.fits  29261.  1.000
+  red/b_F141025_0125.fits  29390.  0.995
+  red/b_F141025_0126.fits  29386.  0.995
+  red/b_F141025_0127.fits  29412.  0.994
+
+  Output image = flat_comb, ncombine = 11
+
+Nov  4 19:52: IMCOMBINE
+  combine = average, scale = median, zero = none, weight = none
+  reject = avsigclip, mclip = yes, nkeep = 1
+  lsigma = 3., hsigma = 3.
+  blank = 1.
+  statsec = [750:1250,750:1250]
+                Images   Median  Scale
+  red/b_F141025_0117.fits  28966.  1.010
+  red/b_F141025_0118.fits  28968.  1.010
+  red/b_F141025_0119.fits  28973.  1.010
+  red/b_F141025_0120.fits  29103.  1.005
+  red/b_F141025_0121.fits  29387.  0.995
+  red/b_F141025_0122.fits  29479.  0.992
+  red/b_F141025_0123.fits  29403.  0.995
+  red/b_F141025_0124.fits  29261.  1.000
+  red/b_F141025_0125.fits  29390.  0.995
+  red/b_F141025_0126.fits  29386.  0.995
+  red/b_F141025_0127.fits  29412.  0.994
+
+  Output image = flat_comb, ncombine = 11

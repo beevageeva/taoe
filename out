@@ -1,0 +1,966 @@
+B141025_0001.fits	19:23:12	+28:17:47	bias	OPEN
+B141025_0002.fits	19:23:12	+28:17:47	bias	OPEN
+B141025_0003.fits	19:23:12	+28:17:47	bias	OPEN
+B141025_0004.fits	19:23:12	+28:17:47	bias	OPEN
+B141025_0005.fits	19:23:12	+28:17:47	bias	OPEN
+B141025_0006.fits	19:23:12	+28:17:47	bias	OPEN
+B141025_0007.fits	19:23:12	+28:17:47	bias	OPEN
+B141025_0008.fits	19:23:12	+28:17:47	bias	OPEN
+B141025_0009.fits	19:23:59	+28:17:47	bias	OPEN
+B141025_0010.fits	19:24:23	+28:17:47	bias	OPEN
+B141025_0011.fits	19:24:50	+28:17:47	bias	OPEN
+B141025_0012.fits	19:25:19	+28:17:47	bias	OPEN
+B141025_0013.fits	19:25:44	+28:17:47	bias	OPEN
+B141025_0014.fits	19:26:10	+28:17:47	bias	OPEN
+B141025_0015.fits	19:26:36	+28:17:47	bias	OPEN
+B141025_0016.fits	19:27:02	+28:17:47	bias	OPEN
+B141025_0017.fits	19:27:27	+28:17:47	bias	OPEN
+B141025_0018.fits	19:27:53	+28:17:47	bias	OPEN
+B141025_0019.fits	19:28:19	+28:17:47	bias	OPEN
+B141025_0020.fits	19:28:44	+28:17:47	bias	OPEN
+B141025_0021.fits	19:29:10	+28:17:47	bias	OPEN
+F141025_0022.fits	21:30:22	-08:33:34	flat	n68Ha
+F141025_0023.fits	21:30:02	-08:33:34	flat	n68Ha
+F141025_0024.fits	21:30:01	-08:33:34	flat	n68Ha
+F141025_0025.fits	21:30:03	-08:33:34	flat	n68Ha
+F141025_0026.fits	21:30:04	-08:33:33	flat	n68Ha
+F141025_0027.fits	21:30:27	-08:33:33	flat	n68Ha
+F141025_0028.fits	21:30:06	-08:33:32	flat	SDSSg
+F141025_0029.fits	21:30:07	-08:33:32	flat	SDSSg
+F141025_0030.fits	21:30:29	-08:33:32	flat	SDSSg
+F141025_0031.fits	21:30:31	-08:33:32	flat	SDSSg
+F141025_0032.fits	21:30:11	-08:33:32	flat	SDSSg
+F141025_0033.fits	21:30:12	-08:33:32	flat	SDSSg
+F141025_0034.fits	21:30:12	-08:33:31	flat	SDSSg
+F141025_0035.fits	21:30:15	-08:33:31	flat	SDSSg
+F141025_0036.fits	21:30:16	-08:33:30	flat	SDSSg
+F141025_0037.fits	18:27:07	+57:17:43	flat	SDSSg
+F141025_0038.fits	18:27:40	+57:17:43	flat	SDSSg
+F141025_0039.fits	18:28:12	+57:17:43	flat	SDSSg
+F141025_0040.fits	18:28:45	+57:17:43	flat	SDSSg
+F141025_0041.fits	18:29:15	+57:17:43	flat	SDSSg
+F141025_0042.fits	18:29:48	+57:17:43	flat	SDSSg
+F141025_0043.fits	18:30:21	+57:17:43	flat	SDSSg
+F141025_0044.fits	18:30:50	+57:17:43	flat	SDSSg
+F141025_0045.fits	18:31:23	+57:17:43	flat	SDSSg
+F141025_0046.fits	18:31:56	+57:17:43	flat	SDSSg
+F141025_0047.fits	18:32:29	+57:17:43	flat	SDSSg
+F141025_0048.fits	18:35:50	+57:17:43	flat	SDSSr
+F141025_0049.fits	18:36:22	+57:17:43	flat	SDSSr
+F141025_0050.fits	18:36:52	+57:17:43	flat	SDSSr
+F141025_0051.fits	18:37:21	+57:17:43	flat	SDSSr
+F141025_0052.fits	18:37:54	+57:17:43	flat	SDSSr
+F141025_0053.fits	18:38:27	+57:17:43	flat	SDSSr
+F141025_0054.fits	18:38:56	+57:17:43	flat	SDSSr
+F141025_0055.fits	18:39:25	+57:17:43	flat	SDSSr
+F141025_0056.fits	18:39:58	+57:17:43	flat	SDSSr
+F141025_0057.fits	18:40:28	+57:17:43	flat	SDSSr
+F141025_0058.fits	18:40:57	+57:17:43	flat	SDSSr
+F141025_0059.fits	18:43:01	+57:17:43	flat	SDSSz
+F141025_0060.fits	18:43:34	+57:17:43	flat	SDSSz
+F141025_0061.fits	18:44:10	+57:17:43	flat	SDSSz
+F141025_0062.fits	18:44:47	+57:17:43	flat	SDSSz
+F141025_0099.fits	" 4:59:08"	+57:17:45	flat	SDSSz
+F141025_0100.fits	" 4:59:41"	+57:17:45	flat	SDSSz
+F141025_0101.fits	" 5:00:14"	+57:17:45	flat	SDSSz
+F141025_0102.fits	" 5:00:47"	+57:17:45	flat	SDSSz
+F141025_0103.fits	" 5:01:20"	+57:17:45	flat	SDSSz
+F141025_0104.fits	" 5:01:53"	+57:17:45	flat	SDSSz
+F141025_0105.fits	" 5:02:26"	+57:17:45	flat	SDSSz
+F141025_0106.fits	" 5:04:34"	+57:17:45	flat	SDSSi
+F141025_0107.fits	" 5:05:07"	+57:17:45	flat	SDSSi
+F141025_0108.fits	" 5:05:36"	+57:17:45	flat	SDSSi
+F141025_0109.fits	" 5:06:09"	+57:17:45	flat	SDSSi
+F141025_0110.fits	" 5:06:38"	+57:17:45	flat	SDSSi
+F141025_0111.fits	" 5:07:11"	+57:17:45	flat	SDSSi
+F141025_0112.fits	" 5:07:41"	+57:17:45	flat	SDSSi
+F141025_0113.fits	" 5:08:10"	+57:17:45	flat	SDSSi
+F141025_0114.fits	" 5:08:43"	+57:17:45	flat	SDSSi
+F141025_0115.fits	" 5:09:12"	+57:17:45	flat	SDSSi
+F141025_0116.fits	" 5:09:45"	+57:17:45	flat	SDSSi
+F141025_0117.fits	" 5:15:19"	+57:17:45	flat	OPEN
+F141025_0118.fits	" 5:15:48"	+57:17:45	flat	OPEN
+F141025_0119.fits	" 5:16:21"	+57:17:45	flat	OPEN
+F141025_0120.fits	" 5:16:54"	+57:17:45	flat	OPEN
+F141025_0121.fits	" 5:17:24"	+57:17:45	flat	OPEN
+F141025_0122.fits	" 5:17:56"	+57:17:45	flat	OPEN
+F141025_0123.fits	" 5:18:30"	+57:17:45	flat	OPEN
+F141025_0124.fits	" 5:18:59"	+57:17:45	flat	OPEN
+F141025_0125.fits	" 5:19:32"	+57:17:45	flat	OPEN
+F141025_0126.fits	" 5:20:05"	+57:17:45	flat	OPEN
+F141025_0127.fits	" 5:20:38"	+57:17:45	flat	OPEN
+O141025_0063.fits	" 1:34:37"	+30:44:44	object	SDSSg
+O141025_0064.fits	" 1:34:38"	+30:44:37	object	SDSSr
+O141025_0065.fits	" 1:34:39"	+30:44:33	object	SDSSz
+O141025_0066.fits	" 1:34:39"	+30:44:29	object	SDSSi
+O141025_0067.fits	" 1:34:40"	+30:44:24	object	SDSSg
+O141025_0068.fits	" 1:34:40"	+30:44:23	object	SDSSr
+O141025_0069.fits	" 1:34:40"	+30:44:16	object	SDSSz
+O141025_0070.fits	" 1:35:02"	+30:44:16	object	SDSSi
+O141025_0071.fits	" 1:34:41"	+30:44:22	object	SDSSg
+O141025_0072.fits	" 1:34:41"	+30:44:20	object	SDSSr
+O141025_0073.fits	" 1:34:42"	+30:44:20	object	SDSSz
+O141025_0074.fits	" 1:34:42"	+30:44:17	object	SDSSi
+O141025_0075.fits	" 2:18:19"	-05:07:14	object	OPEN
+O141025_0076.fits	" 2:18:21"	-05:07:15	object	OPEN
+O141025_0077.fits	" 2:18:21"	-05:07:07	object	OPEN
+O141025_0078.fits	" 2:18:20"	-05:07:08	object	OPEN
+O141025_0079.fits	" 2:18:19"	-05:07:07	object	OPEN
+O141025_0080.fits	" 2:18:41"	-05:07:19	object	OPEN
+O141025_0081.fits	" 2:18:20"	-05:07:29	object	OPEN
+O141025_0082.fits	" 2:18:21"	-05:07:29	object	OPEN
+O141025_0083.fits	" 2:18:22"	-05:07:27	object	OPEN
+O141025_0084.fits	" 218:45"	-05:07:27	object	OPEN
+O141025_0085.fits	" 2:18:24"	-05:07:21	object	OPEN
+O141025_0086.fits	" 2:18:24"	-05:07:14	object	OPEN
+O141025_0087.fits	" 7:18:22"	+37:46:22	object	OPEN
+O141025_0088.fits	" 7:18:45"	+37:46:17	object	OPEN
+O141025_0089.fits	" 7:18:24"	+37:46:19	object	OPEN
+O141025_0090.fits	" 7:18:23"	+37:46:16	object	OPEN
+O141025_0091.fits	" 7:18:23"	+37:46:15	object	OPEN
+O141025_0092.fits	" 7:18:23"	+37:46:02	object	OPEN
+O141025_0093.fits	" 7:18:44"	+37:45:53	object	OPEN
+O141025_0094.fits	" 7:18:25"	+37:45:52	object	OPEN
+O141025_0095.fits	" 7:18:47"	+37:45:50	object	OPEN
+O141025_0096.fits	" 7:18:49"	+37:45:49	object	OPEN
+O141025_0097.fits	" 7:18:28"	+37:45:57	object	OPEN
+O141025_0098.fits	" 7:18:28"	+37:46:04	object	OPEN
+O141025_0087.fits	" 7:18:22"	+37:46:22	object	OPEN
+test.fits			test	
+B141025_0001.fits	Bias	Bias	19:23:12	+28:17:47	bias	OPEN
+B141025_0002.fits	Bias	Bias	19:23:12	+28:17:47	bias	OPEN
+B141025_0003.fits	Bias	Bias	19:23:12	+28:17:47	bias	OPEN
+B141025_0004.fits	Bias	Bias	19:23:12	+28:17:47	bias	OPEN
+B141025_0005.fits	Bias	Bias	19:23:12	+28:17:47	bias	OPEN
+B141025_0006.fits	Bias	Bias	19:23:12	+28:17:47	bias	OPEN
+B141025_0007.fits	Bias	Bias	19:23:12	+28:17:47	bias	OPEN
+B141025_0008.fits	Bias	Bias	19:23:12	+28:17:47	bias	OPEN
+B141025_0009.fits	Bias	Bias	19:23:59	+28:17:47	bias	OPEN
+B141025_0010.fits	Bias	Bias	19:24:23	+28:17:47	bias	OPEN
+B141025_0011.fits	Bias	Bias	19:24:50	+28:17:47	bias	OPEN
+B141025_0012.fits	Bias	Bias	19:25:19	+28:17:47	bias	OPEN
+B141025_0013.fits	Bias	Bias	19:25:44	+28:17:47	bias	OPEN
+B141025_0014.fits	Bias	Bias	19:26:10	+28:17:47	bias	OPEN
+B141025_0015.fits	Bias	Bias	19:26:36	+28:17:47	bias	OPEN
+B141025_0016.fits	Bias	Bias	19:27:02	+28:17:47	bias	OPEN
+B141025_0017.fits	Bias	Bias	19:27:27	+28:17:47	bias	OPEN
+B141025_0018.fits	Bias	Bias	19:27:53	+28:17:47	bias	OPEN
+B141025_0019.fits	Bias	Bias	19:28:19	+28:17:47	bias	OPEN
+B141025_0020.fits	Bias	Bias	19:28:44	+28:17:47	bias	OPEN
+B141025_0021.fits	Bias	Bias	19:29:10	+28:17:47	bias	OPEN
+F141025_0022.fits	Flat_ha	Flat_ha	21:30:22	-08:33:34	flat	n68Ha
+F141025_0023.fits	Flat_ha	Flat_ha	21:30:02	-08:33:34	flat	n68Ha
+F141025_0024.fits	Flat_ha	Flat_ha	21:30:01	-08:33:34	flat	n68Ha
+F141025_0025.fits	Flat_ha	Flat_ha	21:30:03	-08:33:34	flat	n68Ha
+F141025_0026.fits	Flat_ha	Flat_ha	21:30:04	-08:33:33	flat	n68Ha
+F141025_0027.fits	Flat_ha	Flat_ha	21:30:27	-08:33:33	flat	n68Ha
+F141025_0028.fits	Flat_g	Flat_g	21:30:06	-08:33:32	flat	SDSSg
+F141025_0029.fits	Flat_g	Flat_g	21:30:07	-08:33:32	flat	SDSSg
+F141025_0030.fits	Flat_g	Flat_g	21:30:29	-08:33:32	flat	SDSSg
+F141025_0031.fits	Flat_g	Flat_g	21:30:31	-08:33:32	flat	SDSSg
+F141025_0032.fits	Flat_g	Flat_g	21:30:11	-08:33:32	flat	SDSSg
+F141025_0033.fits	Flat_g	Flat_g	21:30:12	-08:33:32	flat	SDSSg
+F141025_0034.fits	Flat_g	Flat_g	21:30:12	-08:33:31	flat	SDSSg
+F141025_0035.fits	Flat_g	Flat_g	21:30:15	-08:33:31	flat	SDSSg
+F141025_0036.fits	Flat_g	Flat_g	21:30:16	-08:33:30	flat	SDSSg
+F141025_0037.fits	Flat_g	Flat_g	18:27:07	+57:17:43	flat	SDSSg
+F141025_0038.fits	Flat_g	Flat_g	18:27:40	+57:17:43	flat	SDSSg
+F141025_0039.fits	Flat_g	Flat_g	18:28:12	+57:17:43	flat	SDSSg
+F141025_0040.fits	Flat_g	Flat_g	18:28:45	+57:17:43	flat	SDSSg
+F141025_0041.fits	Flat_g	Flat_g	18:29:15	+57:17:43	flat	SDSSg
+F141025_0042.fits	Flat_g	Flat_g	18:29:48	+57:17:43	flat	SDSSg
+F141025_0043.fits	Flat_g	Flat_g	18:30:21	+57:17:43	flat	SDSSg
+F141025_0044.fits	Flat_g	Flat_g	18:30:50	+57:17:43	flat	SDSSg
+F141025_0045.fits	Flat_g	Flat_g	18:31:23	+57:17:43	flat	SDSSg
+F141025_0046.fits	Flat_g	Flat_g	18:31:56	+57:17:43	flat	SDSSg
+F141025_0047.fits	Flat_g	Flat_g	18:32:29	+57:17:43	flat	SDSSg
+F141025_0048.fits	Flat_r	Flat_r	18:35:50	+57:17:43	flat	SDSSr
+F141025_0049.fits	Flat_r	Flat_r	18:36:22	+57:17:43	flat	SDSSr
+F141025_0050.fits	Flat_r	Flat_r	18:36:52	+57:17:43	flat	SDSSr
+F141025_0051.fits	Flat_r	Flat_r	18:37:21	+57:17:43	flat	SDSSr
+F141025_0052.fits	Flat_r	Flat_r	18:37:54	+57:17:43	flat	SDSSr
+F141025_0053.fits	Flat_r	Flat_r	18:38:27	+57:17:43	flat	SDSSr
+F141025_0054.fits	Flat_r	Flat_r	18:38:56	+57:17:43	flat	SDSSr
+F141025_0055.fits	Flat_r	Flat_r	18:39:25	+57:17:43	flat	SDSSr
+F141025_0056.fits	Flat_r	Flat_r	18:39:58	+57:17:43	flat	SDSSr
+F141025_0057.fits	Flat_r	Flat_r	18:40:28	+57:17:43	flat	SDSSr
+F141025_0058.fits	Flat_r	Flat_r	18:40:57	+57:17:43	flat	SDSSr
+F141025_0059.fits	Flat_z	Flat_z	18:43:01	+57:17:43	flat	SDSSz
+F141025_0060.fits	Flat_z	Flat_z	18:43:34	+57:17:43	flat	SDSSz
+F141025_0061.fits	Flat_z	Flat_z	18:44:10	+57:17:43	flat	SDSSz
+F141025_0062.fits	Flat_z	Flat_z	18:44:47	+57:17:43	flat	SDSSz
+F141025_0099.fits	Flat_z	Flat_z	" 4:59:08"	+57:17:45	flat	SDSSz
+F141025_0100.fits	Flat_z	Flat_z	" 4:59:41"	+57:17:45	flat	SDSSz
+F141025_0101.fits	Flat_z	Flat_z	" 5:00:14"	+57:17:45	flat	SDSSz
+F141025_0102.fits	Flat_z	Flat_z	" 5:00:47"	+57:17:45	flat	SDSSz
+F141025_0103.fits	Flat_z	Flat_z	" 5:01:20"	+57:17:45	flat	SDSSz
+F141025_0104.fits	Flat_z	Flat_z	" 5:01:53"	+57:17:45	flat	SDSSz
+F141025_0105.fits	Flat_z	Flat_z	" 5:02:26"	+57:17:45	flat	SDSSz
+F141025_0106.fits	Flat_i	Flat_i	" 5:04:34"	+57:17:45	flat	SDSSi
+F141025_0107.fits	Flat_i	Flat_i	" 5:05:07"	+57:17:45	flat	SDSSi
+F141025_0108.fits	Flat_i	Flat_i	" 5:05:36"	+57:17:45	flat	SDSSi
+F141025_0109.fits	Flat_i	Flat_i	" 5:06:09"	+57:17:45	flat	SDSSi
+F141025_0110.fits	Flat_i	Flat_i	" 5:06:38"	+57:17:45	flat	SDSSi
+F141025_0111.fits	Flat_i	Flat_i	" 5:07:11"	+57:17:45	flat	SDSSi
+F141025_0112.fits	Flat_i	Flat_i	" 5:07:41"	+57:17:45	flat	SDSSi
+F141025_0113.fits	Flat_i	Flat_i	" 5:08:10"	+57:17:45	flat	SDSSi
+F141025_0114.fits	Flat_i	Flat_i	" 5:08:43"	+57:17:45	flat	SDSSi
+F141025_0115.fits	Flat_i	Flat_i	" 5:09:12"	+57:17:45	flat	SDSSi
+F141025_0116.fits	Flat_i	Flat_i	" 5:09:45"	+57:17:45	flat	SDSSi
+F141025_0117.fits	Flat_O	Flat_O	" 5:15:19"	+57:17:45	flat	OPEN
+F141025_0118.fits	Flat_O	Flat_O	" 5:15:48"	+57:17:45	flat	OPEN
+F141025_0119.fits	Flat_O	Flat_O	" 5:16:21"	+57:17:45	flat	OPEN
+F141025_0120.fits	Flat_O	Flat_O	" 5:16:54"	+57:17:45	flat	OPEN
+F141025_0121.fits	Flat_O	Flat_O	" 5:17:24"	+57:17:45	flat	OPEN
+F141025_0122.fits	Flat_O	Flat_O	" 5:17:56"	+57:17:45	flat	OPEN
+F141025_0123.fits	Flat_O	Flat_O	" 5:18:30"	+57:17:45	flat	OPEN
+F141025_0124.fits	Flat_O	Flat_O	" 5:18:59"	+57:17:45	flat	OPEN
+F141025_0125.fits	Flat_O	Flat_O	" 5:19:32"	+57:17:45	flat	OPEN
+F141025_0126.fits	Flat_O	Flat_O	" 5:20:05"	+57:17:45	flat	OPEN
+F141025_0127.fits	Flat_O	Flat_O	" 5:20:38"	+57:17:45	flat	OPEN
+O141025_0063.fits	M33_g	M33_g	" 1:34:37"	+30:44:44	object	SDSSg
+O141025_0064.fits	M33_r	M33_r	" 1:34:38"	+30:44:37	object	SDSSr
+O141025_0065.fits	M33_z	M33_z	" 1:34:39"	+30:44:33	object	SDSSz
+O141025_0066.fits	M33_i	M33_i	" 1:34:39"	+30:44:29	object	SDSSi
+O141025_0067.fits	M33_g	M33_g	" 1:34:40"	+30:44:24	object	SDSSg
+O141025_0068.fits	M33_r	M33_r	" 1:34:40"	+30:44:23	object	SDSSr
+O141025_0069.fits	m33_z	m33_z	" 1:34:40"	+30:44:16	object	SDSSz
+O141025_0070.fits	M33_i	M33_i	" 1:35:02"	+30:44:16	object	SDSSi
+O141025_0071.fits	M33_g	M33_g	" 1:34:41"	+30:44:22	object	SDSSg
+O141025_0072.fits	M33_r	M33_r	" 1:34:41"	+30:44:20	object	SDSSr
+O141025_0073.fits	M33_z	M33_z	" 1:34:42"	+30:44:20	object	SDSSz
+O141025_0074.fits	M33_i	M33_i	" 1:34:42"	+30:44:17	object	SDSSi
+O141025_0075.fits	UDS	UDS	" 2:18:19"	-05:07:14	object	OPEN
+O141025_0076.fits	UDS	UDS	" 2:18:21"	-05:07:15	object	OPEN
+O141025_0077.fits	UDS	UDS	" 2:18:21"	-05:07:07	object	OPEN
+O141025_0078.fits	UDS	UDS	" 2:18:20"	-05:07:08	object	OPEN
+O141025_0079.fits	UDS	UDS	" 2:18:19"	-05:07:07	object	OPEN
+O141025_0080.fits	UDS	UDS	" 2:18:41"	-05:07:19	object	OPEN
+O141025_0081.fits	UDS	UDS	" 2:18:20"	-05:07:29	object	OPEN
+O141025_0082.fits	UDS	UDS	" 2:18:21"	-05:07:29	object	OPEN
+O141025_0083.fits	UDS	UDS	" 2:18:22"	-05:07:27	object	OPEN
+O141025_0084.fits	UDS	UDS	" 218:45"	-05:07:27	object	OPEN
+O141025_0085.fits	UDS	UDS	" 2:18:24"	-05:07:21	object	OPEN
+O141025_0086.fits	UDS	UDS	" 2:18:24"	-05:07:14	object	OPEN
+O141025_0087.fits	HFF	HFF	" 7:18:22"	+37:46:22	object	OPEN
+O141025_0088.fits	HFF	HFF	" 7:18:45"	+37:46:17	object	OPEN
+O141025_0089.fits	HFF	HFF	" 7:18:24"	+37:46:19	object	OPEN
+O141025_0090.fits	HFF	HFF	" 7:18:23"	+37:46:16	object	OPEN
+O141025_0091.fits	HFF	HFF	" 7:18:23"	+37:46:15	object	OPEN
+O141025_0092.fits	HFF	HFF	" 7:18:23"	+37:46:02	object	OPEN
+O141025_0093.fits	HFF	HFF	" 7:18:44"	+37:45:53	object	OPEN
+O141025_0094.fits	HFF	HFF	" 7:18:25"	+37:45:52	object	OPEN
+O141025_0095.fits	HFF	HFF	" 7:18:47"	+37:45:50	object	OPEN
+O141025_0096.fits	HFF	HFF	" 7:18:49"	+37:45:49	object	OPEN
+O141025_0097.fits	HFF	HFF	" 7:18:28"	+37:45:57	object	OPEN
+O141025_0098.fits	HFF	HFF	" 7:18:28"	+37:46:04	object	OPEN
+O141025_0087.fits	HFF	HFF	" 7:18:22"	+37:46:22	object	OPEN
+test.fits	Object	Comments			test	
+B141025_0001.fits	Bias	Bias	19:23:12	+28:17:47	bias	OPEN
+B141025_0002.fits	Bias	Bias	19:23:12	+28:17:47	bias	OPEN
+B141025_0003.fits	Bias	Bias	19:23:12	+28:17:47	bias	OPEN
+B141025_0004.fits	Bias	Bias	19:23:12	+28:17:47	bias	OPEN
+B141025_0005.fits	Bias	Bias	19:23:12	+28:17:47	bias	OPEN
+B141025_0006.fits	Bias	Bias	19:23:12	+28:17:47	bias	OPEN
+B141025_0007.fits	Bias	Bias	19:23:12	+28:17:47	bias	OPEN
+B141025_0008.fits	Bias	Bias	19:23:12	+28:17:47	bias	OPEN
+B141025_0009.fits	Bias	Bias	19:23:59	+28:17:47	bias	OPEN
+B141025_0010.fits	Bias	Bias	19:24:23	+28:17:47	bias	OPEN
+B141025_0011.fits	Bias	Bias	19:24:50	+28:17:47	bias	OPEN
+B141025_0012.fits	Bias	Bias	19:25:19	+28:17:47	bias	OPEN
+B141025_0013.fits	Bias	Bias	19:25:44	+28:17:47	bias	OPEN
+B141025_0014.fits	Bias	Bias	19:26:10	+28:17:47	bias	OPEN
+B141025_0015.fits	Bias	Bias	19:26:36	+28:17:47	bias	OPEN
+B141025_0016.fits	Bias	Bias	19:27:02	+28:17:47	bias	OPEN
+B141025_0017.fits	Bias	Bias	19:27:27	+28:17:47	bias	OPEN
+B141025_0018.fits	Bias	Bias	19:27:53	+28:17:47	bias	OPEN
+B141025_0019.fits	Bias	Bias	19:28:19	+28:17:47	bias	OPEN
+B141025_0020.fits	Bias	Bias	19:28:44	+28:17:47	bias	OPEN
+B141025_0021.fits	Bias	Bias	19:29:10	+28:17:47	bias	OPEN
+F141025_0022.fits	Flat_ha	Flat_ha	21:30:22	-08:33:34	flat	n68Ha
+F141025_0023.fits	Flat_ha	Flat_ha	21:30:02	-08:33:34	flat	n68Ha
+F141025_0024.fits	Flat_ha	Flat_ha	21:30:01	-08:33:34	flat	n68Ha
+F141025_0025.fits	Flat_ha	Flat_ha	21:30:03	-08:33:34	flat	n68Ha
+F141025_0026.fits	Flat_ha	Flat_ha	21:30:04	-08:33:33	flat	n68Ha
+F141025_0027.fits	Flat_ha	Flat_ha	21:30:27	-08:33:33	flat	n68Ha
+F141025_0028.fits	Flat_g	Flat_g	21:30:06	-08:33:32	flat	SDSSg
+F141025_0029.fits	Flat_g	Flat_g	21:30:07	-08:33:32	flat	SDSSg
+F141025_0030.fits	Flat_g	Flat_g	21:30:29	-08:33:32	flat	SDSSg
+F141025_0031.fits	Flat_g	Flat_g	21:30:31	-08:33:32	flat	SDSSg
+F141025_0032.fits	Flat_g	Flat_g	21:30:11	-08:33:32	flat	SDSSg
+F141025_0033.fits	Flat_g	Flat_g	21:30:12	-08:33:32	flat	SDSSg
+F141025_0034.fits	Flat_g	Flat_g	21:30:12	-08:33:31	flat	SDSSg
+F141025_0035.fits	Flat_g	Flat_g	21:30:15	-08:33:31	flat	SDSSg
+F141025_0036.fits	Flat_g	Flat_g	21:30:16	-08:33:30	flat	SDSSg
+F141025_0037.fits	Flat_g	Flat_g	18:27:07	+57:17:43	flat	SDSSg
+F141025_0038.fits	Flat_g	Flat_g	18:27:40	+57:17:43	flat	SDSSg
+F141025_0039.fits	Flat_g	Flat_g	18:28:12	+57:17:43	flat	SDSSg
+F141025_0040.fits	Flat_g	Flat_g	18:28:45	+57:17:43	flat	SDSSg
+F141025_0041.fits	Flat_g	Flat_g	18:29:15	+57:17:43	flat	SDSSg
+F141025_0042.fits	Flat_g	Flat_g	18:29:48	+57:17:43	flat	SDSSg
+F141025_0043.fits	Flat_g	Flat_g	18:30:21	+57:17:43	flat	SDSSg
+F141025_0044.fits	Flat_g	Flat_g	18:30:50	+57:17:43	flat	SDSSg
+F141025_0045.fits	Flat_g	Flat_g	18:31:23	+57:17:43	flat	SDSSg
+F141025_0046.fits	Flat_g	Flat_g	18:31:56	+57:17:43	flat	SDSSg
+F141025_0047.fits	Flat_g	Flat_g	18:32:29	+57:17:43	flat	SDSSg
+F141025_0048.fits	Flat_r	Flat_r	18:35:50	+57:17:43	flat	SDSSr
+F141025_0049.fits	Flat_r	Flat_r	18:36:22	+57:17:43	flat	SDSSr
+F141025_0050.fits	Flat_r	Flat_r	18:36:52	+57:17:43	flat	SDSSr
+F141025_0051.fits	Flat_r	Flat_r	18:37:21	+57:17:43	flat	SDSSr
+F141025_0052.fits	Flat_r	Flat_r	18:37:54	+57:17:43	flat	SDSSr
+F141025_0053.fits	Flat_r	Flat_r	18:38:27	+57:17:43	flat	SDSSr
+F141025_0054.fits	Flat_r	Flat_r	18:38:56	+57:17:43	flat	SDSSr
+F141025_0055.fits	Flat_r	Flat_r	18:39:25	+57:17:43	flat	SDSSr
+F141025_0056.fits	Flat_r	Flat_r	18:39:58	+57:17:43	flat	SDSSr
+F141025_0057.fits	Flat_r	Flat_r	18:40:28	+57:17:43	flat	SDSSr
+F141025_0058.fits	Flat_r	Flat_r	18:40:57	+57:17:43	flat	SDSSr
+F141025_0059.fits	Flat_z	Flat_z	18:43:01	+57:17:43	flat	SDSSz
+F141025_0060.fits	Flat_z	Flat_z	18:43:34	+57:17:43	flat	SDSSz
+F141025_0061.fits	Flat_z	Flat_z	18:44:10	+57:17:43	flat	SDSSz
+F141025_0062.fits	Flat_z	Flat_z	18:44:47	+57:17:43	flat	SDSSz
+F141025_0099.fits	Flat_z	Flat_z	" 4:59:08"	+57:17:45	flat	SDSSz
+F141025_0100.fits	Flat_z	Flat_z	" 4:59:41"	+57:17:45	flat	SDSSz
+F141025_0101.fits	Flat_z	Flat_z	" 5:00:14"	+57:17:45	flat	SDSSz
+F141025_0102.fits	Flat_z	Flat_z	" 5:00:47"	+57:17:45	flat	SDSSz
+F141025_0103.fits	Flat_z	Flat_z	" 5:01:20"	+57:17:45	flat	SDSSz
+F141025_0104.fits	Flat_z	Flat_z	" 5:01:53"	+57:17:45	flat	SDSSz
+F141025_0105.fits	Flat_z	Flat_z	" 5:02:26"	+57:17:45	flat	SDSSz
+F141025_0106.fits	Flat_i	Flat_i	" 5:04:34"	+57:17:45	flat	SDSSi
+F141025_0107.fits	Flat_i	Flat_i	" 5:05:07"	+57:17:45	flat	SDSSi
+F141025_0108.fits	Flat_i	Flat_i	" 5:05:36"	+57:17:45	flat	SDSSi
+F141025_0109.fits	Flat_i	Flat_i	" 5:06:09"	+57:17:45	flat	SDSSi
+F141025_0110.fits	Flat_i	Flat_i	" 5:06:38"	+57:17:45	flat	SDSSi
+F141025_0111.fits	Flat_i	Flat_i	" 5:07:11"	+57:17:45	flat	SDSSi
+F141025_0112.fits	Flat_i	Flat_i	" 5:07:41"	+57:17:45	flat	SDSSi
+F141025_0113.fits	Flat_i	Flat_i	" 5:08:10"	+57:17:45	flat	SDSSi
+F141025_0114.fits	Flat_i	Flat_i	" 5:08:43"	+57:17:45	flat	SDSSi
+F141025_0115.fits	Flat_i	Flat_i	" 5:09:12"	+57:17:45	flat	SDSSi
+F141025_0116.fits	Flat_i	Flat_i	" 5:09:45"	+57:17:45	flat	SDSSi
+F141025_0117.fits	Flat_O	Flat_O	" 5:15:19"	+57:17:45	flat	OPEN
+F141025_0118.fits	Flat_O	Flat_O	" 5:15:48"	+57:17:45	flat	OPEN
+F141025_0119.fits	Flat_O	Flat_O	" 5:16:21"	+57:17:45	flat	OPEN
+F141025_0120.fits	Flat_O	Flat_O	" 5:16:54"	+57:17:45	flat	OPEN
+F141025_0121.fits	Flat_O	Flat_O	" 5:17:24"	+57:17:45	flat	OPEN
+F141025_0122.fits	Flat_O	Flat_O	" 5:17:56"	+57:17:45	flat	OPEN
+F141025_0123.fits	Flat_O	Flat_O	" 5:18:30"	+57:17:45	flat	OPEN
+F141025_0124.fits	Flat_O	Flat_O	" 5:18:59"	+57:17:45	flat	OPEN
+F141025_0125.fits	Flat_O	Flat_O	" 5:19:32"	+57:17:45	flat	OPEN
+F141025_0126.fits	Flat_O	Flat_O	" 5:20:05"	+57:17:45	flat	OPEN
+F141025_0127.fits	Flat_O	Flat_O	" 5:20:38"	+57:17:45	flat	OPEN
+O141025_0063.fits	M33_g	M33_g	" 1:34:37"	+30:44:44	object	SDSSg
+O141025_0064.fits	M33_r	M33_r	" 1:34:38"	+30:44:37	object	SDSSr
+O141025_0065.fits	M33_z	M33_z	" 1:34:39"	+30:44:33	object	SDSSz
+O141025_0066.fits	M33_i	M33_i	" 1:34:39"	+30:44:29	object	SDSSi
+O141025_0067.fits	M33_g	M33_g	" 1:34:40"	+30:44:24	object	SDSSg
+O141025_0068.fits	M33_r	M33_r	" 1:34:40"	+30:44:23	object	SDSSr
+O141025_0069.fits	m33_z	m33_z	" 1:34:40"	+30:44:16	object	SDSSz
+O141025_0070.fits	M33_i	M33_i	" 1:35:02"	+30:44:16	object	SDSSi
+O141025_0071.fits	M33_g	M33_g	" 1:34:41"	+30:44:22	object	SDSSg
+O141025_0072.fits	M33_r	M33_r	" 1:34:41"	+30:44:20	object	SDSSr
+O141025_0073.fits	M33_z	M33_z	" 1:34:42"	+30:44:20	object	SDSSz
+O141025_0074.fits	M33_i	M33_i	" 1:34:42"	+30:44:17	object	SDSSi
+O141025_0075.fits	UDS	UDS	" 2:18:19"	-05:07:14	object	OPEN
+O141025_0076.fits	UDS	UDS	" 2:18:21"	-05:07:15	object	OPEN
+O141025_0077.fits	UDS	UDS	" 2:18:21"	-05:07:07	object	OPEN
+O141025_0078.fits	UDS	UDS	" 2:18:20"	-05:07:08	object	OPEN
+O141025_0079.fits	UDS	UDS	" 2:18:19"	-05:07:07	object	OPEN
+O141025_0080.fits	UDS	UDS	" 2:18:41"	-05:07:19	object	OPEN
+O141025_0081.fits	UDS	UDS	" 2:18:20"	-05:07:29	object	OPEN
+O141025_0082.fits	UDS	UDS	" 2:18:21"	-05:07:29	object	OPEN
+O141025_0083.fits	UDS	UDS	" 2:18:22"	-05:07:27	object	OPEN
+O141025_0084.fits	UDS	UDS	" 218:45"	-05:07:27	object	OPEN
+O141025_0085.fits	UDS	UDS	" 2:18:24"	-05:07:21	object	OPEN
+O141025_0086.fits	UDS	UDS	" 2:18:24"	-05:07:14	object	OPEN
+O141025_0087.fits	HFF	HFF	" 7:18:22"	+37:46:22	object	OPEN
+O141025_0088.fits	HFF	HFF	" 7:18:45"	+37:46:17	object	OPEN
+O141025_0089.fits	HFF	HFF	" 7:18:24"	+37:46:19	object	OPEN
+O141025_0090.fits	HFF	HFF	" 7:18:23"	+37:46:16	object	OPEN
+O141025_0091.fits	HFF	HFF	" 7:18:23"	+37:46:15	object	OPEN
+O141025_0092.fits	HFF	HFF	" 7:18:23"	+37:46:02	object	OPEN
+O141025_0093.fits	HFF	HFF	" 7:18:44"	+37:45:53	object	OPEN
+O141025_0094.fits	HFF	HFF	" 7:18:25"	+37:45:52	object	OPEN
+O141025_0095.fits	HFF	HFF	" 7:18:47"	+37:45:50	object	OPEN
+O141025_0096.fits	HFF	HFF	" 7:18:49"	+37:45:49	object	OPEN
+O141025_0097.fits	HFF	HFF	" 7:18:28"	+37:45:57	object	OPEN
+O141025_0098.fits	HFF	HFF	" 7:18:28"	+37:46:04	object	OPEN
+O141025_0087.fits	HFF	HFF	" 7:18:22"	+37:46:22	object	OPEN
+test.fits	Object	Comments			test	
+B141025_0001.fits	Bias	Bias	19:23:12	+28:17:47	bias	OPEN
+B141025_0002.fits	Bias	Bias	19:23:12	+28:17:47	bias	OPEN
+B141025_0003.fits	Bias	Bias	19:23:12	+28:17:47	bias	OPEN
+B141025_0004.fits	Bias	Bias	19:23:12	+28:17:47	bias	OPEN
+B141025_0005.fits	Bias	Bias	19:23:12	+28:17:47	bias	OPEN
+B141025_0006.fits	Bias	Bias	19:23:12	+28:17:47	bias	OPEN
+B141025_0007.fits	Bias	Bias	19:23:12	+28:17:47	bias	OPEN
+B141025_0008.fits	Bias	Bias	19:23:12	+28:17:47	bias	OPEN
+B141025_0009.fits	Bias	Bias	19:23:59	+28:17:47	bias	OPEN
+B141025_0010.fits	Bias	Bias	19:24:23	+28:17:47	bias	OPEN
+B141025_0011.fits	Bias	Bias	19:24:50	+28:17:47	bias	OPEN
+B141025_0012.fits	Bias	Bias	19:25:19	+28:17:47	bias	OPEN
+B141025_0013.fits	Bias	Bias	19:25:44	+28:17:47	bias	OPEN
+B141025_0014.fits	Bias	Bias	19:26:10	+28:17:47	bias	OPEN
+B141025_0015.fits	Bias	Bias	19:26:36	+28:17:47	bias	OPEN
+B141025_0016.fits	Bias	Bias	19:27:02	+28:17:47	bias	OPEN
+B141025_0017.fits	Bias	Bias	19:27:27	+28:17:47	bias	OPEN
+B141025_0018.fits	Bias	Bias	19:27:53	+28:17:47	bias	OPEN
+B141025_0019.fits	Bias	Bias	19:28:19	+28:17:47	bias	OPEN
+B141025_0020.fits	Bias	Bias	19:28:44	+28:17:47	bias	OPEN
+B141025_0021.fits	Bias	Bias	19:29:10	+28:17:47	bias	OPEN
+F141025_0022.fits	Flat_ha	Flat_ha	21:30:22	-08:33:34	flat	n68Ha
+F141025_0023.fits	Flat_ha	Flat_ha	21:30:02	-08:33:34	flat	n68Ha
+F141025_0024.fits	Flat_ha	Flat_ha	21:30:01	-08:33:34	flat	n68Ha
+F141025_0025.fits	Flat_ha	Flat_ha	21:30:03	-08:33:34	flat	n68Ha
+F141025_0026.fits	Flat_ha	Flat_ha	21:30:04	-08:33:33	flat	n68Ha
+F141025_0027.fits	Flat_ha	Flat_ha	21:30:27	-08:33:33	flat	n68Ha
+F141025_0028.fits	Flat_g	Flat_g	21:30:06	-08:33:32	flat	SDSSg
+F141025_0029.fits	Flat_g	Flat_g	21:30:07	-08:33:32	flat	SDSSg
+F141025_0030.fits	Flat_g	Flat_g	21:30:29	-08:33:32	flat	SDSSg
+F141025_0031.fits	Flat_g	Flat_g	21:30:31	-08:33:32	flat	SDSSg
+F141025_0032.fits	Flat_g	Flat_g	21:30:11	-08:33:32	flat	SDSSg
+F141025_0033.fits	Flat_g	Flat_g	21:30:12	-08:33:32	flat	SDSSg
+F141025_0034.fits	Flat_g	Flat_g	21:30:12	-08:33:31	flat	SDSSg
+F141025_0035.fits	Flat_g	Flat_g	21:30:15	-08:33:31	flat	SDSSg
+F141025_0036.fits	Flat_g	Flat_g	21:30:16	-08:33:30	flat	SDSSg
+F141025_0037.fits	Flat_g	Flat_g	18:27:07	+57:17:43	flat	SDSSg
+F141025_0038.fits	Flat_g	Flat_g	18:27:40	+57:17:43	flat	SDSSg
+F141025_0039.fits	Flat_g	Flat_g	18:28:12	+57:17:43	flat	SDSSg
+F141025_0040.fits	Flat_g	Flat_g	18:28:45	+57:17:43	flat	SDSSg
+F141025_0041.fits	Flat_g	Flat_g	18:29:15	+57:17:43	flat	SDSSg
+F141025_0042.fits	Flat_g	Flat_g	18:29:48	+57:17:43	flat	SDSSg
+F141025_0043.fits	Flat_g	Flat_g	18:30:21	+57:17:43	flat	SDSSg
+F141025_0044.fits	Flat_g	Flat_g	18:30:50	+57:17:43	flat	SDSSg
+F141025_0045.fits	Flat_g	Flat_g	18:31:23	+57:17:43	flat	SDSSg
+F141025_0046.fits	Flat_g	Flat_g	18:31:56	+57:17:43	flat	SDSSg
+F141025_0047.fits	Flat_g	Flat_g	18:32:29	+57:17:43	flat	SDSSg
+F141025_0048.fits	Flat_r	Flat_r	18:35:50	+57:17:43	flat	SDSSr
+F141025_0049.fits	Flat_r	Flat_r	18:36:22	+57:17:43	flat	SDSSr
+F141025_0050.fits	Flat_r	Flat_r	18:36:52	+57:17:43	flat	SDSSr
+F141025_0051.fits	Flat_r	Flat_r	18:37:21	+57:17:43	flat	SDSSr
+F141025_0052.fits	Flat_r	Flat_r	18:37:54	+57:17:43	flat	SDSSr
+F141025_0053.fits	Flat_r	Flat_r	18:38:27	+57:17:43	flat	SDSSr
+F141025_0054.fits	Flat_r	Flat_r	18:38:56	+57:17:43	flat	SDSSr
+F141025_0055.fits	Flat_r	Flat_r	18:39:25	+57:17:43	flat	SDSSr
+F141025_0056.fits	Flat_r	Flat_r	18:39:58	+57:17:43	flat	SDSSr
+F141025_0057.fits	Flat_r	Flat_r	18:40:28	+57:17:43	flat	SDSSr
+F141025_0058.fits	Flat_r	Flat_r	18:40:57	+57:17:43	flat	SDSSr
+F141025_0059.fits	Flat_z	Flat_z	18:43:01	+57:17:43	flat	SDSSz
+F141025_0060.fits	Flat_z	Flat_z	18:43:34	+57:17:43	flat	SDSSz
+F141025_0061.fits	Flat_z	Flat_z	18:44:10	+57:17:43	flat	SDSSz
+F141025_0062.fits	Flat_z	Flat_z	18:44:47	+57:17:43	flat	SDSSz
+F141025_0099.fits	Flat_z	Flat_z	" 4:59:08"	+57:17:45	flat	SDSSz
+F141025_0100.fits	Flat_z	Flat_z	" 4:59:41"	+57:17:45	flat	SDSSz
+F141025_0101.fits	Flat_z	Flat_z	" 5:00:14"	+57:17:45	flat	SDSSz
+F141025_0102.fits	Flat_z	Flat_z	" 5:00:47"	+57:17:45	flat	SDSSz
+F141025_0103.fits	Flat_z	Flat_z	" 5:01:20"	+57:17:45	flat	SDSSz
+F141025_0104.fits	Flat_z	Flat_z	" 5:01:53"	+57:17:45	flat	SDSSz
+F141025_0105.fits	Flat_z	Flat_z	" 5:02:26"	+57:17:45	flat	SDSSz
+F141025_0106.fits	Flat_i	Flat_i	" 5:04:34"	+57:17:45	flat	SDSSi
+F141025_0107.fits	Flat_i	Flat_i	" 5:05:07"	+57:17:45	flat	SDSSi
+F141025_0108.fits	Flat_i	Flat_i	" 5:05:36"	+57:17:45	flat	SDSSi
+F141025_0109.fits	Flat_i	Flat_i	" 5:06:09"	+57:17:45	flat	SDSSi
+F141025_0110.fits	Flat_i	Flat_i	" 5:06:38"	+57:17:45	flat	SDSSi
+F141025_0111.fits	Flat_i	Flat_i	" 5:07:11"	+57:17:45	flat	SDSSi
+F141025_0112.fits	Flat_i	Flat_i	" 5:07:41"	+57:17:45	flat	SDSSi
+F141025_0113.fits	Flat_i	Flat_i	" 5:08:10"	+57:17:45	flat	SDSSi
+F141025_0114.fits	Flat_i	Flat_i	" 5:08:43"	+57:17:45	flat	SDSSi
+F141025_0115.fits	Flat_i	Flat_i	" 5:09:12"	+57:17:45	flat	SDSSi
+F141025_0116.fits	Flat_i	Flat_i	" 5:09:45"	+57:17:45	flat	SDSSi
+F141025_0117.fits	Flat_O	Flat_O	" 5:15:19"	+57:17:45	flat	OPEN
+F141025_0118.fits	Flat_O	Flat_O	" 5:15:48"	+57:17:45	flat	OPEN
+F141025_0119.fits	Flat_O	Flat_O	" 5:16:21"	+57:17:45	flat	OPEN
+F141025_0120.fits	Flat_O	Flat_O	" 5:16:54"	+57:17:45	flat	OPEN
+F141025_0121.fits	Flat_O	Flat_O	" 5:17:24"	+57:17:45	flat	OPEN
+F141025_0122.fits	Flat_O	Flat_O	" 5:17:56"	+57:17:45	flat	OPEN
+F141025_0123.fits	Flat_O	Flat_O	" 5:18:30"	+57:17:45	flat	OPEN
+F141025_0124.fits	Flat_O	Flat_O	" 5:18:59"	+57:17:45	flat	OPEN
+F141025_0125.fits	Flat_O	Flat_O	" 5:19:32"	+57:17:45	flat	OPEN
+F141025_0126.fits	Flat_O	Flat_O	" 5:20:05"	+57:17:45	flat	OPEN
+F141025_0127.fits	Flat_O	Flat_O	" 5:20:38"	+57:17:45	flat	OPEN
+O141025_0063.fits	M33_g	M33_g	" 1:34:37"	+30:44:44	object	SDSSg
+O141025_0064.fits	M33_r	M33_r	" 1:34:38"	+30:44:37	object	SDSSr
+O141025_0065.fits	M33_z	M33_z	" 1:34:39"	+30:44:33	object	SDSSz
+O141025_0066.fits	M33_i	M33_i	" 1:34:39"	+30:44:29	object	SDSSi
+O141025_0067.fits	M33_g	M33_g	" 1:34:40"	+30:44:24	object	SDSSg
+O141025_0068.fits	M33_r	M33_r	" 1:34:40"	+30:44:23	object	SDSSr
+O141025_0069.fits	m33_z	m33_z	" 1:34:40"	+30:44:16	object	SDSSz
+O141025_0070.fits	M33_i	M33_i	" 1:35:02"	+30:44:16	object	SDSSi
+O141025_0071.fits	M33_g	M33_g	" 1:34:41"	+30:44:22	object	SDSSg
+O141025_0072.fits	M33_r	M33_r	" 1:34:41"	+30:44:20	object	SDSSr
+O141025_0073.fits	M33_z	M33_z	" 1:34:42"	+30:44:20	object	SDSSz
+O141025_0074.fits	M33_i	M33_i	" 1:34:42"	+30:44:17	object	SDSSi
+O141025_0075.fits	UDS	UDS	" 2:18:19"	-05:07:14	object	OPEN
+O141025_0076.fits	UDS	UDS	" 2:18:21"	-05:07:15	object	OPEN
+O141025_0077.fits	UDS	UDS	" 2:18:21"	-05:07:07	object	OPEN
+O141025_0078.fits	UDS	UDS	" 2:18:20"	-05:07:08	object	OPEN
+O141025_0079.fits	UDS	UDS	" 2:18:19"	-05:07:07	object	OPEN
+O141025_0080.fits	UDS	UDS	" 2:18:41"	-05:07:19	object	OPEN
+O141025_0081.fits	UDS	UDS	" 2:18:20"	-05:07:29	object	OPEN
+O141025_0082.fits	UDS	UDS	" 2:18:21"	-05:07:29	object	OPEN
+O141025_0083.fits	UDS	UDS	" 2:18:22"	-05:07:27	object	OPEN
+O141025_0084.fits	UDS	UDS	" 218:45"	-05:07:27	object	OPEN
+O141025_0085.fits	UDS	UDS	" 2:18:24"	-05:07:21	object	OPEN
+O141025_0086.fits	UDS	UDS	" 2:18:24"	-05:07:14	object	OPEN
+O141025_0087.fits	HFF	HFF	" 7:18:22"	+37:46:22	object	OPEN
+O141025_0088.fits	HFF	HFF	" 7:18:45"	+37:46:17	object	OPEN
+O141025_0089.fits	HFF	HFF	" 7:18:24"	+37:46:19	object	OPEN
+O141025_0090.fits	HFF	HFF	" 7:18:23"	+37:46:16	object	OPEN
+O141025_0091.fits	HFF	HFF	" 7:18:23"	+37:46:15	object	OPEN
+O141025_0092.fits	HFF	HFF	" 7:18:23"	+37:46:02	object	OPEN
+O141025_0093.fits	HFF	HFF	" 7:18:44"	+37:45:53	object	OPEN
+O141025_0094.fits	HFF	HFF	" 7:18:25"	+37:45:52	object	OPEN
+O141025_0095.fits	HFF	HFF	" 7:18:47"	+37:45:50	object	OPEN
+O141025_0096.fits	HFF	HFF	" 7:18:49"	+37:45:49	object	OPEN
+O141025_0097.fits	HFF	HFF	" 7:18:28"	+37:45:57	object	OPEN
+O141025_0098.fits	HFF	HFF	" 7:18:28"	+37:46:04	object	OPEN
+O141025_0087.fits	HFF	HFF	" 7:18:22"	+37:46:22	object	OPEN
+test.fits	Object	Comments			test	
+B141025_0001.fits	Bias	Bias	19:23:12	+28:17:47	bias	OPEN
+B141025_0002.fits	Bias	Bias	19:23:12	+28:17:47	bias	OPEN
+B141025_0003.fits	Bias	Bias	19:23:12	+28:17:47	bias	OPEN
+B141025_0004.fits	Bias	Bias	19:23:12	+28:17:47	bias	OPEN
+B141025_0005.fits	Bias	Bias	19:23:12	+28:17:47	bias	OPEN
+B141025_0006.fits	Bias	Bias	19:23:12	+28:17:47	bias	OPEN
+B141025_0007.fits	Bias	Bias	19:23:12	+28:17:47	bias	OPEN
+B141025_0008.fits	Bias	Bias	19:23:12	+28:17:47	bias	OPEN
+B141025_0009.fits	Bias	Bias	19:23:59	+28:17:47	bias	OPEN
+B141025_0010.fits	Bias	Bias	19:24:23	+28:17:47	bias	OPEN
+B141025_0011.fits	Bias	Bias	19:24:50	+28:17:47	bias	OPEN
+B141025_0012.fits	Bias	Bias	19:25:19	+28:17:47	bias	OPEN
+B141025_0013.fits	Bias	Bias	19:25:44	+28:17:47	bias	OPEN
+B141025_0014.fits	Bias	Bias	19:26:10	+28:17:47	bias	OPEN
+B141025_0015.fits	Bias	Bias	19:26:36	+28:17:47	bias	OPEN
+B141025_0016.fits	Bias	Bias	19:27:02	+28:17:47	bias	OPEN
+B141025_0017.fits	Bias	Bias	19:27:27	+28:17:47	bias	OPEN
+B141025_0018.fits	Bias	Bias	19:27:53	+28:17:47	bias	OPEN
+B141025_0019.fits	Bias	Bias	19:28:19	+28:17:47	bias	OPEN
+B141025_0020.fits	Bias	Bias	19:28:44	+28:17:47	bias	OPEN
+B141025_0021.fits	Bias	Bias	19:29:10	+28:17:47	bias	OPEN
+F141025_0022.fits	Flat_ha	Flat_ha	21:30:22	-08:33:34	flat	n68Ha
+F141025_0023.fits	Flat_ha	Flat_ha	21:30:02	-08:33:34	flat	n68Ha
+F141025_0024.fits	Flat_ha	Flat_ha	21:30:01	-08:33:34	flat	n68Ha
+F141025_0025.fits	Flat_ha	Flat_ha	21:30:03	-08:33:34	flat	n68Ha
+F141025_0026.fits	Flat_ha	Flat_ha	21:30:04	-08:33:33	flat	n68Ha
+F141025_0027.fits	Flat_ha	Flat_ha	21:30:27	-08:33:33	flat	n68Ha
+F141025_0028.fits	Flat_g	Flat_g	21:30:06	-08:33:32	flat	SDSSg
+F141025_0029.fits	Flat_g	Flat_g	21:30:07	-08:33:32	flat	SDSSg
+F141025_0030.fits	Flat_g	Flat_g	21:30:29	-08:33:32	flat	SDSSg
+F141025_0031.fits	Flat_g	Flat_g	21:30:31	-08:33:32	flat	SDSSg
+F141025_0032.fits	Flat_g	Flat_g	21:30:11	-08:33:32	flat	SDSSg
+F141025_0033.fits	Flat_g	Flat_g	21:30:12	-08:33:32	flat	SDSSg
+F141025_0034.fits	Flat_g	Flat_g	21:30:12	-08:33:31	flat	SDSSg
+F141025_0035.fits	Flat_g	Flat_g	21:30:15	-08:33:31	flat	SDSSg
+F141025_0036.fits	Flat_g	Flat_g	21:30:16	-08:33:30	flat	SDSSg
+F141025_0037.fits	Flat_g	Flat_g	18:27:07	+57:17:43	flat	SDSSg
+F141025_0038.fits	Flat_g	Flat_g	18:27:40	+57:17:43	flat	SDSSg
+F141025_0039.fits	Flat_g	Flat_g	18:28:12	+57:17:43	flat	SDSSg
+F141025_0040.fits	Flat_g	Flat_g	18:28:45	+57:17:43	flat	SDSSg
+F141025_0041.fits	Flat_g	Flat_g	18:29:15	+57:17:43	flat	SDSSg
+F141025_0042.fits	Flat_g	Flat_g	18:29:48	+57:17:43	flat	SDSSg
+F141025_0043.fits	Flat_g	Flat_g	18:30:21	+57:17:43	flat	SDSSg
+F141025_0044.fits	Flat_g	Flat_g	18:30:50	+57:17:43	flat	SDSSg
+F141025_0045.fits	Flat_g	Flat_g	18:31:23	+57:17:43	flat	SDSSg
+F141025_0046.fits	Flat_g	Flat_g	18:31:56	+57:17:43	flat	SDSSg
+F141025_0047.fits	Flat_g	Flat_g	18:32:29	+57:17:43	flat	SDSSg
+F141025_0048.fits	Flat_r	Flat_r	18:35:50	+57:17:43	flat	SDSSr
+F141025_0049.fits	Flat_r	Flat_r	18:36:22	+57:17:43	flat	SDSSr
+F141025_0050.fits	Flat_r	Flat_r	18:36:52	+57:17:43	flat	SDSSr
+F141025_0051.fits	Flat_r	Flat_r	18:37:21	+57:17:43	flat	SDSSr
+F141025_0052.fits	Flat_r	Flat_r	18:37:54	+57:17:43	flat	SDSSr
+F141025_0053.fits	Flat_r	Flat_r	18:38:27	+57:17:43	flat	SDSSr
+F141025_0054.fits	Flat_r	Flat_r	18:38:56	+57:17:43	flat	SDSSr
+F141025_0055.fits	Flat_r	Flat_r	18:39:25	+57:17:43	flat	SDSSr
+F141025_0056.fits	Flat_r	Flat_r	18:39:58	+57:17:43	flat	SDSSr
+F141025_0057.fits	Flat_r	Flat_r	18:40:28	+57:17:43	flat	SDSSr
+F141025_0058.fits	Flat_r	Flat_r	18:40:57	+57:17:43	flat	SDSSr
+F141025_0059.fits	Flat_z	Flat_z	18:43:01	+57:17:43	flat	SDSSz
+F141025_0060.fits	Flat_z	Flat_z	18:43:34	+57:17:43	flat	SDSSz
+F141025_0061.fits	Flat_z	Flat_z	18:44:10	+57:17:43	flat	SDSSz
+F141025_0062.fits	Flat_z	Flat_z	18:44:47	+57:17:43	flat	SDSSz
+F141025_0099.fits	Flat_z	Flat_z	" 4:59:08"	+57:17:45	flat	SDSSz
+F141025_0100.fits	Flat_z	Flat_z	" 4:59:41"	+57:17:45	flat	SDSSz
+F141025_0101.fits	Flat_z	Flat_z	" 5:00:14"	+57:17:45	flat	SDSSz
+F141025_0102.fits	Flat_z	Flat_z	" 5:00:47"	+57:17:45	flat	SDSSz
+F141025_0103.fits	Flat_z	Flat_z	" 5:01:20"	+57:17:45	flat	SDSSz
+F141025_0104.fits	Flat_z	Flat_z	" 5:01:53"	+57:17:45	flat	SDSSz
+F141025_0105.fits	Flat_z	Flat_z	" 5:02:26"	+57:17:45	flat	SDSSz
+F141025_0106.fits	Flat_i	Flat_i	" 5:04:34"	+57:17:45	flat	SDSSi
+F141025_0107.fits	Flat_i	Flat_i	" 5:05:07"	+57:17:45	flat	SDSSi
+F141025_0108.fits	Flat_i	Flat_i	" 5:05:36"	+57:17:45	flat	SDSSi
+F141025_0109.fits	Flat_i	Flat_i	" 5:06:09"	+57:17:45	flat	SDSSi
+F141025_0110.fits	Flat_i	Flat_i	" 5:06:38"	+57:17:45	flat	SDSSi
+F141025_0111.fits	Flat_i	Flat_i	" 5:07:11"	+57:17:45	flat	SDSSi
+F141025_0112.fits	Flat_i	Flat_i	" 5:07:41"	+57:17:45	flat	SDSSi
+F141025_0113.fits	Flat_i	Flat_i	" 5:08:10"	+57:17:45	flat	SDSSi
+F141025_0114.fits	Flat_i	Flat_i	" 5:08:43"	+57:17:45	flat	SDSSi
+F141025_0115.fits	Flat_i	Flat_i	" 5:09:12"	+57:17:45	flat	SDSSi
+F141025_0116.fits	Flat_i	Flat_i	" 5:09:45"	+57:17:45	flat	SDSSi
+F141025_0117.fits	Flat_O	Flat_O	" 5:15:19"	+57:17:45	flat	OPEN
+F141025_0118.fits	Flat_O	Flat_O	" 5:15:48"	+57:17:45	flat	OPEN
+F141025_0119.fits	Flat_O	Flat_O	" 5:16:21"	+57:17:45	flat	OPEN
+F141025_0120.fits	Flat_O	Flat_O	" 5:16:54"	+57:17:45	flat	OPEN
+F141025_0121.fits	Flat_O	Flat_O	" 5:17:24"	+57:17:45	flat	OPEN
+F141025_0122.fits	Flat_O	Flat_O	" 5:17:56"	+57:17:45	flat	OPEN
+F141025_0123.fits	Flat_O	Flat_O	" 5:18:30"	+57:17:45	flat	OPEN
+F141025_0124.fits	Flat_O	Flat_O	" 5:18:59"	+57:17:45	flat	OPEN
+F141025_0125.fits	Flat_O	Flat_O	" 5:19:32"	+57:17:45	flat	OPEN
+F141025_0126.fits	Flat_O	Flat_O	" 5:20:05"	+57:17:45	flat	OPEN
+F141025_0127.fits	Flat_O	Flat_O	" 5:20:38"	+57:17:45	flat	OPEN
+F141025_0117.fits	Flat_O	Flat_O	" 5:15:19"	+57:17:45	flat	OPEN
+F141025_0118.fits	Flat_O	Flat_O	" 5:15:48"	+57:17:45	flat	OPEN
+F141025_0119.fits	Flat_O	Flat_O	" 5:16:21"	+57:17:45	flat	OPEN
+F141025_0120.fits	Flat_O	Flat_O	" 5:16:54"	+57:17:45	flat	OPEN
+F141025_0121.fits	Flat_O	Flat_O	" 5:17:24"	+57:17:45	flat	OPEN
+F141025_0122.fits	Flat_O	Flat_O	" 5:17:56"	+57:17:45	flat	OPEN
+F141025_0123.fits	Flat_O	Flat_O	" 5:18:30"	+57:17:45	flat	OPEN
+F141025_0124.fits	Flat_O	Flat_O	" 5:18:59"	+57:17:45	flat	OPEN
+F141025_0125.fits	Flat_O	Flat_O	" 5:19:32"	+57:17:45	flat	OPEN
+F141025_0126.fits	Flat_O	Flat_O	" 5:20:05"	+57:17:45	flat	OPEN
+F141025_0127.fits	Flat_O	Flat_O	" 5:20:38"	+57:17:45	flat	OPEN
+F141025_0117.fits	Flat_O	Flat_O	" 5:15:19"	+57:17:45	flat	OPEN
+F141025_0118.fits	Flat_O	Flat_O	" 5:15:48"	+57:17:45	flat	OPEN
+F141025_0119.fits	Flat_O	Flat_O	" 5:16:21"	+57:17:45	flat	OPEN
+F141025_0120.fits	Flat_O	Flat_O	" 5:16:54"	+57:17:45	flat	OPEN
+F141025_0121.fits	Flat_O	Flat_O	" 5:17:24"	+57:17:45	flat	OPEN
+F141025_0122.fits	Flat_O	Flat_O	" 5:17:56"	+57:17:45	flat	OPEN
+F141025_0123.fits	Flat_O	Flat_O	" 5:18:30"	+57:17:45	flat	OPEN
+F141025_0124.fits	Flat_O	Flat_O	" 5:18:59"	+57:17:45	flat	OPEN
+F141025_0125.fits	Flat_O	Flat_O	" 5:19:32"	+57:17:45	flat	OPEN
+F141025_0126.fits	Flat_O	Flat_O	" 5:20:05"	+57:17:45	flat	OPEN
+F141025_0127.fits	Flat_O	Flat_O	" 5:20:38"	+57:17:45	flat	OPEN
+O141025_0075.fits	UDS	UDS	" 2:18:19"	-05:07:14	object	OPEN
+O141025_0076.fits	UDS	UDS	" 2:18:21"	-05:07:15	object	OPEN
+O141025_0077.fits	UDS	UDS	" 2:18:21"	-05:07:07	object	OPEN
+O141025_0078.fits	UDS	UDS	" 2:18:20"	-05:07:08	object	OPEN
+O141025_0079.fits	UDS	UDS	" 2:18:19"	-05:07:07	object	OPEN
+O141025_0080.fits	UDS	UDS	" 2:18:41"	-05:07:19	object	OPEN
+O141025_0081.fits	UDS	UDS	" 2:18:20"	-05:07:29	object	OPEN
+O141025_0082.fits	UDS	UDS	" 2:18:21"	-05:07:29	object	OPEN
+O141025_0083.fits	UDS	UDS	" 2:18:22"	-05:07:27	object	OPEN
+O141025_0084.fits	UDS	UDS	" 218:45"	-05:07:27	object	OPEN
+O141025_0085.fits	UDS	UDS	" 2:18:24"	-05:07:21	object	OPEN
+O141025_0086.fits	UDS	UDS	" 2:18:24"	-05:07:14	object	OPEN
+O141025_0075.fits	UDS	UDS	" 2:18:19"	-05:07:14	object	OPEN
+O141025_0076.fits	UDS	UDS	" 2:18:21"	-05:07:15	object	OPEN
+O141025_0077.fits	UDS	UDS	" 2:18:21"	-05:07:07	object	OPEN
+O141025_0078.fits	UDS	UDS	" 2:18:20"	-05:07:08	object	OPEN
+O141025_0079.fits	UDS	UDS	" 2:18:19"	-05:07:07	object	OPEN
+O141025_0080.fits	UDS	UDS	" 2:18:41"	-05:07:19	object	OPEN
+O141025_0081.fits	UDS	UDS	" 2:18:20"	-05:07:29	object	OPEN
+O141025_0082.fits	UDS	UDS	" 2:18:21"	-05:07:29	object	OPEN
+O141025_0083.fits	UDS	UDS	" 2:18:22"	-05:07:27	object	OPEN
+O141025_0084.fits	UDS	UDS	" 218:45"	-05:07:27	object	OPEN
+O141025_0085.fits	UDS	UDS	" 2:18:24"	-05:07:21	object	OPEN
+O141025_0086.fits	UDS	UDS	" 2:18:24"	-05:07:14	object	OPEN
+   (pixeltype = "real real")    Output and calculation pixel datatypes
+     (verbose = no)             Print log information to the standard output?
+     (logfile = "logfile")      Text log file
+    (plotfile = "")             Log metacode plot file
+      (backup = "")             Backup directory or prefix
+  (instrument = "q")            CCD instrument file
+      (ssfile = "subsets")      Subset translation file
+    (graphics = "q")            Interactive graphics output device
+      (cursor = "")             Graphics cursor input
+     (version = "2: October 1987") 
+        (mode = "ql")           
+      ($nargs = 0)              
+   (pixeltype = "real real")    Output and calculation pixel datatypes
+     (verbose = no)             Print log information to the standard output?
+     (logfile = "logfile")      Text log file
+    (plotfile = "")             Log metacode plot file
+      (backup = "")             Backup directory or prefix
+  (instrument = "ccddb$kpno/camera.dat") CCD instrument file
+      (ssfile = "subsets")      Subset translation file
+    (graphics = "q")            Interactive graphics output device
+      (cursor = "")             Graphics cursor input
+     (version = "2: October 1987") 
+        (mode = "ql")           
+      ($nargs = 0)              
+#               IMAGE      NPIX      MEAN    STDDEV       MIN       MAX
+            flat_comb   4194304    28913.      765.    19205.    59412.
+34.579167	0.120556	1006.5	1006.5
+34.579167	0.120556	956.5	1006.5
+34.579167	0.120556	956.5	1006.5
+34.587500	0.120833	956.5	1006.5
+34.587500	0.118611	956.5	1006.5
+34.583333	0.118889	956.5	1006.5
+34.579167	0.118611	956.5	1006.5
+34.670833	0.121944	956.5	1006.5
+34.583333	0.124722	956.5	1006.5
+34.587500	0.124722	956.5	1006.5
+34.591667	0.124167	956.5	1006.5
+3281.250000	0.124167	956.5	1006.5
+34.600000	0.122500	956.5	1006.5
+34.600000	0.120556	956.5	1006.5
+34.579167	0.120556	956.5	1006.5
+34.587500	0.120833	956.5	1006.5
+34.587500	0.118611	956.5	1006.5
+34.583333	0.118889	956.5	1006.5
+34.579167	0.118611	956.5	1006.5
+34.670833	0.121944	956.5	1006.5
+34.583333	0.124722	956.5	1006.5
+34.587500	0.124722	956.5	1006.5
+34.591667	0.124167	956.5	1006.5
+3281.250000	0.124167	956.5	1006.5
+34.600000	0.122500	956.5	1006.5
+34.600000	0.120556	956.5	1006.5
+34.579167	0.120556	956.5	1006.5
+34.587500	0.120833	956.5	1006.5
+34.587500	0.118611	956.5	1006.5
+34.583333	0.118889	956.5	1006.5
+34.579167	0.118611	956.5	1006.5
+34.670833	0.121944	956.5	1006.5
+34.583333	0.124722	956.5	1006.5
+34.587500	0.124722	956.5	1006.5
+34.591667	0.124167	956.5	1006.5
+3281.250000	0.124167	956.5	1006.5
+34.600000	0.122500	956.5	1006.5
+34.600000	0.120556	956.5	1006.5
+#Coords        Image     X-center   Err      Y-center   Err     Num
+red/f_O141025_0075.fits    1162.013 (0.029)    1084.194 (0.028)     1
+red/f_O141025_0075.fits     942.036 (0.055)    1117.503 (0.042)     2
+red/f_O141025_0075.fits    1056.321 (0.029)     888.360 (0.028)     3
+
+#Refcoords Reference     X-center   Err      Y-center   Err     Num
+red/f_O141025_0075.fits    1162.013 (0.029)    1084.194 (0.028)     1
+red/f_O141025_0075.fits     942.036 (0.055)    1117.503 (0.042)     2
+red/f_O141025_0075.fits    1056.321 (0.029)     888.360 (0.028)     3
+
+#Shifts        Image    X-shift   Err      Y-shift   Err      N      Internal
+red/f_O141025_0075.fits      0.000 (0.032)      0.000 (0.027)    3   (0.000,0.000)
+#Coords        Image     X-center   Err      Y-center   Err     Num
+red/f_O141025_0075.fits    1162.013 (0.029)    1084.194 (0.028)     1
+red/f_O141025_0075.fits     942.036 (0.055)    1117.503 (0.042)     2
+red/f_O141025_0075.fits    1056.321 (0.029)     888.360 (0.028)     3
+
+#Refcoords Reference     X-center   Err      Y-center   Err     Num
+red/f_O141025_0075.fits    1162.013 (0.029)    1084.194 (0.028)     1
+red/f_O141025_0075.fits     942.036 (0.055)    1117.503 (0.042)     2
+red/f_O141025_0075.fits    1056.321 (0.029)     888.360 (0.028)     3
+
+#Shifts        Image    X-shift   Err      Y-shift   Err      N      Internal
+red/f_O141025_0075.fits      0.000 (0.032)      0.000 (0.027)    3   (0.000,0.000)
+#Coords        Image     X-center   Err      Y-center   Err     Num
+red/f_O141025_0075.fits    1162.013 (0.029)    1084.194 (0.028)     1
+red/f_O141025_0075.fits     942.036 (0.055)    1117.503 (0.042)     2
+red/f_O141025_0075.fits    1056.321 (0.029)     888.360 (0.028)     3
+
+#Refcoords Reference     X-center   Err      Y-center   Err     Num
+red/f_O141025_0075.fits    1162.013 (0.029)    1084.194 (0.028)     1
+red/f_O141025_0075.fits     942.036 (0.055)    1117.503 (0.042)     2
+red/f_O141025_0075.fits    1056.321 (0.029)     888.360 (0.028)     3
+
+#Shifts        Image    X-shift   Err      Y-shift   Err      N      Internal
+red/f_O141025_0075.fits      0.000 (0.032)      0.000 (0.027)    3   (0.000,0.000)
+#Coords        Image     X-center   Err      Y-center   Err     Num
+red/f_O141025_0075.fits     394.785 (0.147)     315.422 (0.155)     1
+red/f_O141025_0075.fits     287.558 (0.144)     120.886 (0.100)     2
+red/f_O141025_0075.fits     173.803 (0.155)     348.511 (0.133)     3
+
+#Refcoords Reference     X-center   Err      Y-center   Err     Num
+red/f_O141025_0075.fits     394.785 (0.147)     315.422 (0.155)     1
+red/f_O141025_0075.fits     287.558 (0.144)     120.886 (0.100)     2
+red/f_O141025_0075.fits     173.803 (0.155)     348.511 (0.133)     3
+
+#Shifts        Image    X-shift   Err      Y-shift   Err      N      Internal
+red/f_O141025_0075.fits      0.000 (0.121)      0.000 (0.107)    3   (0.000,0.000)
+O141025_0080.fits[2098,2048][ushort]: UDS
+No bad pixels, min=0., max=0. (old)
+Line storage mode, physdim [2098,2048], length of user area 2552 s.u.
+Created Wed 16:12:12 04-Nov-2015, Last modified Sun 13:18:19 26-Oct-2014
+Pixel file "O141025_0080.fits" [ok]
+EXTEND  =                    T / File May Contain Extensions
+BSCALE  =                  1.0 / Default scaling factor
+BZERO   =              32768.0 / Data are unsigned integer
+FILENAME= 'O141025_0080.fits ' / FITS file name
+DATE-OBS= '2014-10-26        ' / date (yyyy/mm/dd) of obs
+UT      = '00:09:48.324      ' / Universal time
+ST      = '01:21:01          ' / Sidereal time
+RA      = ' 2:18:41          ' / Right ascension
+DEC     = '-05:07:19         ' / Declination
+EQUINOX =          2014.819197 / Epoch of RA and DEC
+JD      =            2456956.5 / Julian day
+CD1_1   =  8.47196608965186E-5 / CD1_1
+CD1_2   =  1.11042971207493E-7 / CD1_2
+CD2_1   =  -1.1273410660210E-7 / CD2_1
+CD2_2   =  8.47220705344157E-5 / CD2_2
+CRPIX1  =               1006.5 / CRPIX1
+CRPIX2  =               1006.5 / CRPIX2
+CTYPE1  = 'RA---TNX          ' / CTYPE1
+CTYPE2  = 'DEC--TNX          ' / CTYPE2
+RADECSYS= 'FK5               ' / RADECSYS
+CRVAL1  =            34.670833 / CRVAL1
+CRVAL2  =             0.121944 / CRVAL2
+ZD      = '36:11:40          ' / Zenith distance
+AIRMASS =                1.239 / Airmass
+PRESSURE= '                770 / Barometric pressure
+TELFOCUS= '22500             ' / Telescope focus
+TELTEMP = 'na:9              ' / Telescope temperature
+WINDSPEE= '10                ' / Wind speed
+WINDDIRE= '193               ' / Wind direction
+HUMIDITY= 'na:48             ' / Humidity
+SEEING  = '0.63"             ' / Seeing measure from DIMMA-OT
+OBSERVAT= 'TEIDE             ' / Observatory
+TELESCOP= 'IAC80             ' / Telescope name
+INSTRUME= 'SI600 CCD Camera  ' / Instrument name
+DETECTOR= 'E2V CCD42-40-BI   ' / Detector model
+CAMTEMP =              -105,90 / Camera Temperature(C)
+INSFILTE= 'OPEN              ' / Instrument filter
+IMAGETYP= 'object            ' / Object, Flat, Dark or Bias
+OPENTIME= '00:09:48.324      ' / UT  Open Shutter Time (ms)
+CLOSTIME= '00:24:48.324      ' / UT  Close Shutter Time (ms)
+EXPTIME = '           900.000' / Exposure time(sec)
+ELAPSED = '           921.484' / Total elapsed time (sec)
+READTIME=                21484 / Readout time(ms)
+SPEED   =                  200 / Readout Speed (100,200,500,900kHz)
+NCCDS   =                    1 / Number of CCD
+NAMPS   =                    1 / Number of ports(1,2)
+ATENUAT =                    0 / Analogue chain (total gain): 0,2,3
+GAIN    =                 1.25 / electrons/adu (average)
+GAIN-A  =                 1.24 / electrons/adu of channel A
+GAIN-B  =                 1.25 / electrons/adu of channel B
+RDNOISE =                 3.37 / Readout noise (electrons rms average)
+RDNOISEA=                 3.40 / Readout noise channel A (electrons)
+RDNOISEB=                 3.35 / Readout noise channel B (electrons)
+DARKCURR=               0.0003 / Dark current (electrons/pixel/sec)
+CCDSUM  = '1 1               ' / Binning
+DETSIZE = '[1:2048,1:2048]   ' / Maximum Imaging Pixel Area
+CCDSIZE = '[1:2048,1:2048]   ' / CCD image chip size
+DETSEC  = '                  ' / Detector image size
+CCDSEC  = '[1:2098,1:2048]   ' / CCD image size
+DATASECC= '[51:2098,1:2048]  ' / CCD imagen section
+BIASSEC = '[1:50,1:2048]     ' / Bias section (prescan) channel A
+OBJECT  = 'UDS               ' / Object name
+COMMENTS= 'UDS               ' / Comments
+B141025_0001.fits	Bias	Bias	19:23:12	+28:17:47	bias	OPEN	"             0.000"
+B141025_0002.fits	Bias	Bias	19:23:12	+28:17:47	bias	OPEN	"             0.000"
+B141025_0003.fits	Bias	Bias	19:23:12	+28:17:47	bias	OPEN	"             0.000"
+B141025_0004.fits	Bias	Bias	19:23:12	+28:17:47	bias	OPEN	"             0.000"
+B141025_0005.fits	Bias	Bias	19:23:12	+28:17:47	bias	OPEN	"             0.000"
+B141025_0006.fits	Bias	Bias	19:23:12	+28:17:47	bias	OPEN	"             0.000"
+B141025_0007.fits	Bias	Bias	19:23:12	+28:17:47	bias	OPEN	"             0.000"
+B141025_0008.fits	Bias	Bias	19:23:12	+28:17:47	bias	OPEN	"             0.000"
+B141025_0009.fits	Bias	Bias	19:23:59	+28:17:47	bias	OPEN	"             0.000"
+B141025_0010.fits	Bias	Bias	19:24:23	+28:17:47	bias	OPEN	"             0.000"
+B141025_0011.fits	Bias	Bias	19:24:50	+28:17:47	bias	OPEN	"             0.000"
+B141025_0012.fits	Bias	Bias	19:25:19	+28:17:47	bias	OPEN	"             0.000"
+B141025_0013.fits	Bias	Bias	19:25:44	+28:17:47	bias	OPEN	"             0.000"
+B141025_0014.fits	Bias	Bias	19:26:10	+28:17:47	bias	OPEN	"             0.000"
+B141025_0015.fits	Bias	Bias	19:26:36	+28:17:47	bias	OPEN	"             0.000"
+B141025_0016.fits	Bias	Bias	19:27:02	+28:17:47	bias	OPEN	"             0.000"
+B141025_0017.fits	Bias	Bias	19:27:27	+28:17:47	bias	OPEN	"             0.000"
+B141025_0018.fits	Bias	Bias	19:27:53	+28:17:47	bias	OPEN	"             0.000"
+B141025_0019.fits	Bias	Bias	19:28:19	+28:17:47	bias	OPEN	"             0.000"
+B141025_0020.fits	Bias	Bias	19:28:44	+28:17:47	bias	OPEN	"             0.000"
+B141025_0021.fits	Bias	Bias	19:29:10	+28:17:47	bias	OPEN	"             0.000"
+F141025_0022.fits	Flat_ha	Flat_ha	21:30:22	-08:33:34	flat	n68Ha	"            15.000"
+F141025_0023.fits	Flat_ha	Flat_ha	21:30:02	-08:33:34	flat	n68Ha	"            25.000"
+F141025_0024.fits	Flat_ha	Flat_ha	21:30:01	-08:33:34	flat	n68Ha	"            30.000"
+F141025_0025.fits	Flat_ha	Flat_ha	21:30:03	-08:33:34	flat	n68Ha	"            40.000"
+F141025_0026.fits	Flat_ha	Flat_ha	21:30:04	-08:33:33	flat	n68Ha	"            55.000"
+F141025_0027.fits	Flat_ha	Flat_ha	21:30:27	-08:33:33	flat	n68Ha	"            90.000"
+F141025_0028.fits	Flat_g	Flat_g	21:30:06	-08:33:32	flat	SDSSg	"            15.000"
+F141025_0029.fits	Flat_g	Flat_g	21:30:07	-08:33:32	flat	SDSSg	"            18.000"
+F141025_0030.fits	Flat_g	Flat_g	21:30:29	-08:33:32	flat	SDSSg	"            25.000"
+F141025_0031.fits	Flat_g	Flat_g	21:30:31	-08:33:32	flat	SDSSg	"            30.000"
+F141025_0032.fits	Flat_g	Flat_g	21:30:11	-08:33:32	flat	SDSSg	"            38.000"
+F141025_0033.fits	Flat_g	Flat_g	21:30:12	-08:33:32	flat	SDSSg	"            50.000"
+F141025_0034.fits	Flat_g	Flat_g	21:30:12	-08:33:31	flat	SDSSg	"            65.000"
+F141025_0035.fits	Flat_g	Flat_g	21:30:15	-08:33:31	flat	SDSSg	"           120.000"
+F141025_0036.fits	Flat_g	Flat_g	21:30:16	-08:33:30	flat	SDSSg	"           180.000"
+F141025_0037.fits	Flat_g	Flat_g	18:27:07	+57:17:43	flat	SDSSg	"             6.000"
+F141025_0038.fits	Flat_g	Flat_g	18:27:40	+57:17:43	flat	SDSSg	"             6.000"
+F141025_0039.fits	Flat_g	Flat_g	18:28:12	+57:17:43	flat	SDSSg	"             6.000"
+F141025_0040.fits	Flat_g	Flat_g	18:28:45	+57:17:43	flat	SDSSg	"             6.000"
+F141025_0041.fits	Flat_g	Flat_g	18:29:15	+57:17:43	flat	SDSSg	"             6.000"
+F141025_0042.fits	Flat_g	Flat_g	18:29:48	+57:17:43	flat	SDSSg	"             6.000"
+F141025_0043.fits	Flat_g	Flat_g	18:30:21	+57:17:43	flat	SDSSg	"             6.000"
+F141025_0044.fits	Flat_g	Flat_g	18:30:50	+57:17:43	flat	SDSSg	"             6.000"
+F141025_0045.fits	Flat_g	Flat_g	18:31:23	+57:17:43	flat	SDSSg	"             6.000"
+F141025_0046.fits	Flat_g	Flat_g	18:31:56	+57:17:43	flat	SDSSg	"             6.000"
+F141025_0047.fits	Flat_g	Flat_g	18:32:29	+57:17:43	flat	SDSSg	"             6.000"
+F141025_0048.fits	Flat_r	Flat_r	18:35:50	+57:17:43	flat	SDSSr	"             5.000"
+F141025_0049.fits	Flat_r	Flat_r	18:36:22	+57:17:43	flat	SDSSr	"             5.000"
+F141025_0050.fits	Flat_r	Flat_r	18:36:52	+57:17:43	flat	SDSSr	"             5.000"
+F141025_0051.fits	Flat_r	Flat_r	18:37:21	+57:17:43	flat	SDSSr	"             5.000"
+F141025_0052.fits	Flat_r	Flat_r	18:37:54	+57:17:43	flat	SDSSr	"             5.000"
+F141025_0053.fits	Flat_r	Flat_r	18:38:27	+57:17:43	flat	SDSSr	"             5.000"
+F141025_0054.fits	Flat_r	Flat_r	18:38:56	+57:17:43	flat	SDSSr	"             5.000"
+F141025_0055.fits	Flat_r	Flat_r	18:39:25	+57:17:43	flat	SDSSr	"             5.000"
+F141025_0056.fits	Flat_r	Flat_r	18:39:58	+57:17:43	flat	SDSSr	"             5.000"
+F141025_0057.fits	Flat_r	Flat_r	18:40:28	+57:17:43	flat	SDSSr	"             5.000"
+F141025_0058.fits	Flat_r	Flat_r	18:40:57	+57:17:43	flat	SDSSr	"             5.000"
+F141025_0059.fits	Flat_z	Flat_z	18:43:01	+57:17:43	flat	SDSSz	"            10.000"
+F141025_0060.fits	Flat_z	Flat_z	18:43:34	+57:17:43	flat	SDSSz	"            10.000"
+F141025_0061.fits	Flat_z	Flat_z	18:44:10	+57:17:43	flat	SDSSz	"            10.000"
+F141025_0062.fits	Flat_z	Flat_z	18:44:47	+57:17:43	flat	SDSSz	"            10.000"
+F141025_0099.fits	Flat_z	Flat_z	" 4:59:08"	+57:17:45	flat	SDSSz	"             7.000"
+F141025_0100.fits	Flat_z	Flat_z	" 4:59:41"	+57:17:45	flat	SDSSz	"             7.000"
+F141025_0101.fits	Flat_z	Flat_z	" 5:00:14"	+57:17:45	flat	SDSSz	"             7.000"
+F141025_0102.fits	Flat_z	Flat_z	" 5:00:47"	+57:17:45	flat	SDSSz	"             7.000"
+F141025_0103.fits	Flat_z	Flat_z	" 5:01:20"	+57:17:45	flat	SDSSz	"             7.000"
+F141025_0104.fits	Flat_z	Flat_z	" 5:01:53"	+57:17:45	flat	SDSSz	"             7.000"
+F141025_0105.fits	Flat_z	Flat_z	" 5:02:26"	+57:17:45	flat	SDSSz	"             7.000"
+F141025_0106.fits	Flat_i	Flat_i	" 5:04:34"	+57:17:45	flat	SDSSi	"             5.000"
+F141025_0107.fits	Flat_i	Flat_i	" 5:05:07"	+57:17:45	flat	SDSSi	"             5.000"
+F141025_0108.fits	Flat_i	Flat_i	" 5:05:36"	+57:17:45	flat	SDSSi	"             5.000"
+F141025_0109.fits	Flat_i	Flat_i	" 5:06:09"	+57:17:45	flat	SDSSi	"             5.000"
+F141025_0110.fits	Flat_i	Flat_i	" 5:06:38"	+57:17:45	flat	SDSSi	"             5.000"
+F141025_0111.fits	Flat_i	Flat_i	" 5:07:11"	+57:17:45	flat	SDSSi	"             5.000"
+F141025_0112.fits	Flat_i	Flat_i	" 5:07:41"	+57:17:45	flat	SDSSi	"             5.000"
+F141025_0113.fits	Flat_i	Flat_i	" 5:08:10"	+57:17:45	flat	SDSSi	"             5.000"
+F141025_0114.fits	Flat_i	Flat_i	" 5:08:43"	+57:17:45	flat	SDSSi	"             5.000"
+F141025_0115.fits	Flat_i	Flat_i	" 5:09:12"	+57:17:45	flat	SDSSi	"             5.000"
+F141025_0116.fits	Flat_i	Flat_i	" 5:09:45"	+57:17:45	flat	SDSSi	"             5.000"
+F141025_0117.fits	Flat_O	Flat_O	" 5:15:19"	+57:17:45	flat	OPEN	"             6.000"
+F141025_0118.fits	Flat_O	Flat_O	" 5:15:48"	+57:17:45	flat	OPEN	"             6.000"
+F141025_0119.fits	Flat_O	Flat_O	" 5:16:21"	+57:17:45	flat	OPEN	"             6.000"
+F141025_0120.fits	Flat_O	Flat_O	" 5:16:54"	+57:17:45	flat	OPEN	"             6.000"
+F141025_0121.fits	Flat_O	Flat_O	" 5:17:24"	+57:17:45	flat	OPEN	"             6.000"
+F141025_0122.fits	Flat_O	Flat_O	" 5:17:56"	+57:17:45	flat	OPEN	"             6.000"
+F141025_0123.fits	Flat_O	Flat_O	" 5:18:30"	+57:17:45	flat	OPEN	"             6.000"
+F141025_0124.fits	Flat_O	Flat_O	" 5:18:59"	+57:17:45	flat	OPEN	"             6.000"
+F141025_0125.fits	Flat_O	Flat_O	" 5:19:32"	+57:17:45	flat	OPEN	"             6.000"
+F141025_0126.fits	Flat_O	Flat_O	" 5:20:05"	+57:17:45	flat	OPEN	"             6.000"
+F141025_0127.fits	Flat_O	Flat_O	" 5:20:38"	+57:17:45	flat	OPEN	"             6.000"
+O141025_0063.fits	M33_g	M33_g	" 1:34:37"	+30:44:44	object	SDSSg	"           600.000"
+O141025_0064.fits	M33_r	M33_r	" 1:34:38"	+30:44:37	object	SDSSr	"           600.000"
+O141025_0065.fits	M33_z	M33_z	" 1:34:39"	+30:44:33	object	SDSSz	"           600.000"
+O141025_0066.fits	M33_i	M33_i	" 1:34:39"	+30:44:29	object	SDSSi	"           600.000"
+O141025_0067.fits	M33_g	M33_g	" 1:34:40"	+30:44:24	object	SDSSg	"           600.000"
+O141025_0068.fits	M33_r	M33_r	" 1:34:40"	+30:44:23	object	SDSSr	"           600.000"
+O141025_0069.fits	m33_z	m33_z	" 1:34:40"	+30:44:16	object	SDSSz	"           600.000"
+O141025_0070.fits	M33_i	M33_i	" 1:35:02"	+30:44:16	object	SDSSi	"           600.000"
+O141025_0071.fits	M33_g	M33_g	" 1:34:41"	+30:44:22	object	SDSSg	"           600.000"
+O141025_0072.fits	M33_r	M33_r	" 1:34:41"	+30:44:20	object	SDSSr	"           600.000"
+O141025_0073.fits	M33_z	M33_z	" 1:34:42"	+30:44:20	object	SDSSz	"           600.000"
+O141025_0074.fits	M33_i	M33_i	" 1:34:42"	+30:44:17	object	SDSSi	"           600.000"
+O141025_0075.fits	UDS	UDS	" 2:18:19"	-05:07:14	object	OPEN	"           900.000"
+O141025_0076.fits	UDS	UDS	" 2:18:21"	-05:07:15	object	OPEN	"           900.000"
+O141025_0077.fits	UDS	UDS	" 2:18:21"	-05:07:07	object	OPEN	"           900.000"
+O141025_0078.fits	UDS	UDS	" 2:18:20"	-05:07:08	object	OPEN	"           900.000"
+O141025_0079.fits	UDS	UDS	" 2:18:19"	-05:07:07	object	OPEN	"           900.000"
+O141025_0080.fits	UDS	UDS	" 2:18:41"	-05:07:19	object	OPEN	"           900.000"
+O141025_0081.fits	UDS	UDS	" 2:18:20"	-05:07:29	object	OPEN	"           900.000"
+O141025_0082.fits	UDS	UDS	" 2:18:21"	-05:07:29	object	OPEN	"           900.000"
+O141025_0083.fits	UDS	UDS	" 2:18:22"	-05:07:27	object	OPEN	"           900.000"
+O141025_0084.fits	UDS	UDS	" 218:45"	-05:07:27	object	OPEN	"           900.000"
+O141025_0085.fits	UDS	UDS	" 2:18:24"	-05:07:21	object	OPEN	"           900.000"
+O141025_0086.fits	UDS	UDS	" 2:18:24"	-05:07:14	object	OPEN	"           900.000"
+O141025_0087.fits	HFF	HFF	" 7:18:22"	+37:46:22	object	OPEN	"           900.000"
+O141025_0088.fits	HFF	HFF	" 7:18:45"	+37:46:17	object	OPEN	"           900.000"
+O141025_0089.fits	HFF	HFF	" 7:18:24"	+37:46:19	object	OPEN	"           900.000"
+O141025_0090.fits	HFF	HFF	" 7:18:23"	+37:46:16	object	OPEN	"           900.000"
+O141025_0091.fits	HFF	HFF	" 7:18:23"	+37:46:15	object	OPEN	"           900.000"
+O141025_0092.fits	HFF	HFF	" 7:18:23"	+37:46:02	object	OPEN	"           900.000"
+O141025_0093.fits	HFF	HFF	" 7:18:44"	+37:45:53	object	OPEN	"           900.000"
+O141025_0094.fits	HFF	HFF	" 7:18:25"	+37:45:52	object	OPEN	"           900.000"
+O141025_0095.fits	HFF	HFF	" 7:18:47"	+37:45:50	object	OPEN	"           900.000"
+O141025_0096.fits	HFF	HFF	" 7:18:49"	+37:45:49	object	OPEN	"           900.000"
+O141025_0097.fits	HFF	HFF	" 7:18:28"	+37:45:57	object	OPEN	"           900.000"
+O141025_0098.fits	HFF	HFF	" 7:18:28"	+37:46:04	object	OPEN	"           900.000"
+B141025_0001.fits	Bias	Bias	19:23:12	+28:17:47	bias	OPEN	0.
+F141025_0117.fits	Flat_O	Flat_O	" 5:15:19"	+57:17:45	flat	OPEN	6.000267
+F141025_0117.fits	Flat_O	Flat_O	" 5:15:19"	+57:17:45	flat	OPEN	6.000267
+O141025_0087.fits	HFF	HFF	" 7:18:22"	+37:46:22	object	OPEN	"           900.000"
+O141025_0075.fits	UDS	UDS	" 2:18:19"	-05:07:14	object	OPEN	"           900.000"
+test.fits	Object	Comments			test		"            45.000"

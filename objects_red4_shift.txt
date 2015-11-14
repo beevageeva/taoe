@@ -1,0 +1,3 @@
+red/a_O141025_0081.fits
+red/a_O141025_0083.fits
+red/a_O141025_0084.fits

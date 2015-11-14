@@ -1,0 +1,4 @@
+*.fits
+*.FITS
+red/*
+all.tar

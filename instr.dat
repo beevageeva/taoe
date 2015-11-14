@@ -1,0 +1,2 @@
+datasec DATASECC [51:2098,1:2048] 
+biassec BIASSEC   [1:50,1:2048]  

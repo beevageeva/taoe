@@ -1,0 +1,11 @@
+red/F141025_0117.fits
+red/F141025_0118.fits
+red/F141025_0119.fits
+red/F141025_0120.fits
+red/F141025_0121.fits
+red/F141025_0122.fits
+red/F141025_0123.fits
+red/F141025_0124.fits
+red/F141025_0125.fits
+red/F141025_0126.fits
+red/F141025_0127.fits
