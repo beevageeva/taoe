@@ -964,3 +964,5 @@ F141025_0117.fits	Flat_O	Flat_O	" 5:15:19"	+57:17:45	flat	OPEN	6.000267
 O141025_0087.fits	HFF	HFF	" 7:18:22"	+37:46:22	object	OPEN	"           900.000"
 O141025_0075.fits	UDS	UDS	" 2:18:19"	-05:07:14	object	OPEN	"           900.000"
 test.fits	Object	Comments			test		"            45.000"
+#               IMAGE      NPIX      MEAN    STDDEV       MIN       MAX
+       flat_comb.fits   4194304     3529.     86.96     2400.    13633.
