@@ -114,12 +114,11 @@
 The TW Hydrae association is a group of about 30 very young stars located 50 pc from Earth
  that are 5-10 million years old. The best studied members of this stellar association are TW Hydrae 
 (nearest known accreting T Tauri star to the Earth), HR 4796 (an A-type star with resolved dusty debris disk; the most massive known group member), 
-HD 98800 (a quadruple star system with debris disk), and 2M1207 (accreting brown dwarf with remarkable planetary-mass companion 2M1207b).
-This ˜25 MJup brown dwarf(2M1207), located ˜70 pc from Earth, has been recently identified as a member of the TW Hydrae Association (age ˜ 8 Myr). 
-Astrometry and photometry in the H, Ks and L' bands and upper limit in J-band reveal a very red object(2M1207b) at a close separation of ˜780 mas (˜55 AU)
-with a spectral type L5-L9.5.  
-Different evolutionary models predict an object within the planetary regime with a mass of M=5$\pm$2 MJup and an effective temperature of 
-Teff=1250$\pm$200 K
+HD 98800 (a quadruple star system with debris disk) and 2M1207 (accreting brown dwarf with spectral type M8 
+of mass $\approx$25MJup and $\approx$8Myr age located $\approx$70 pc from Earth with a remarkable planetary-mass companion 2M1207b: 
+a very red object at a close separation of $\approx$780 mas ($\approx$55 AU) with a spectral type L5-L9.5).
+Different evolutionary models predict for the companion an object within the planetary regime with a mass of M=5$\pm$2 MJup 
+and an effective temperature of Teff=1250$\pm$200 K.
 }
 
 %---- BOX 3 ------------------------------------------------------------
@@ -198,8 +197,7 @@ Teff=1250$\pm$200 K
 % lines).
 % This macro is NOT checked at the pdfLaTeX compilation.
 
-\SpecialRemarks{Take advantage of this box to provide any special
-  remark using up to three lines}
+\SpecialRemarks{}
   
 %---- BOX 6 ------------------------------------------------------------
 %
@@ -269,9 +267,12 @@ giant planet candidate: spectral type L5 - L9.5 with magnitudes: $\ge$ 18.5(J), 
 
 }
 
-\ImmediateObjective{It is not established yet the nature of the companion of the brown dwarf that we believe is a giant planet. 
-We need to repeat the photometric  measurements using adaptive optics infrared wavefront sensing to acquire sharp images and to obtain  spectroscopic results. 
-If we can confirm the belief that the companion is a giant planet these would be the first images of an exoplanet.}
+\ImmediateObjective{It is not established yet the nature of the companion of the brown dwarf that we believe is a giant planet
+(Contamination by a foreground or background field L dwarf is still possible).
+ 
+We need to repeat the photometric  measurements using adaptive optics infrared wavefront sensing to acquire sharp images with bigger
+integration time and to obtain  spectroscopic results. 
+If we can confirm the belief that the companion is a planet these would be the first images of an exoplanet.}
 
 %
 %---- THE SECOND PAGE OF THE SCIENCE CASE CAN INCLUDE FIGURES ----------
@@ -283,8 +284,8 @@ If we can confirm the belief that the companion is a giant planet these would be
 % if printed in black and white. Figures must be in PDF or JPEG format.
 
 
-\MakePicture{2mass1.png}{width=15cm,height=8.0cm}
-\MakeCaption{Fig.~1: image obtained from 2 mass centered on the companion of the parent dwarf:  RA: 12h:07m:34.01s, dec: -39d:32m:58.9s, 30 arcsec}
+\MakePicture{2mass.png}{width=15cm,height=8.0cm}
+\MakeCaption{Fig.~1: image obtained from 2 mass centered on the parent dwarf:  RA: 12h:07m:33.47s and dec: -39d:32m:54.0s , 30 arcsec}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%% THE PAGE OF TECHNICAL JUSTIFICATIONS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -315,6 +316,11 @@ We want to use  UT1 beacuse we want to use intrument NACO.
 NACO = Nasmyth Adaptive Optics System (NAOS) + Near-Infrared Imager and Spectrograph (CONICA)
 
 NACO has been contributing to major discoveries in different fields of astronomy: exoplanets, the Galactic centre of the Milky Way, young stellar objects, Solar System bodies, etc.
+
+In order to split the beam for the adaptive optics we use the N90C10 dichroic (90\% flux to the wavefront sensor  of NAOS and 10\% to the camera 
+CONICA) for J, H and Ks band. This mode is dedicated to the sharp imaging of red sources V − K $\ge$ 6 (M5 or later spectral type), but this cannot 
+be used for  L' filter and specter and we use VIS dichroic (90\% flux to the wavefront sensor and 90\% to the camera) for these. 
+
 }
 
 \DDTJustification{The only option was for cycle 96z(DDT cycle) }
@@ -439,13 +445,32 @@ that appears faintly in the images from 2 mass.
 % proposal.
 %
 % DO NOT USE ANY TEX/LATEX MACROS FOR THE TARGETS
-\Target{A}{2M1207b}{12:07:34.01}{-39:32:58.9}{1}{18}{}{}{2M1207}
+\Target{A}{2M1207}{12:07:33.47}{-39:32:54.0}{1}{13}{}{}{2M1207}
 
 % Use TargetNotes to include any comments that apply to several or all
 % of your targets.
 % This macro is NOT checked at the pdfLaTeX compilation.
 
-\TargetNotes{RA above is given in h:m:s format and declination in d:m:s format. We use as reference star for adaptive optics  the parent brown dwarf with coordinates: RA: 12h:07m:33.47s and dec: -39d:32m:54.0s  because the Adaptive Optics System (NAOS) is designed to work with natural guide stars.
+\TargetNotes{RA above  given in h:m:s format and declination in d:m:s format and the magnitude are those of the parent brown dwarf(2M1207). 
+We use as reference star for adaptive optics the same target star -  
+the parent brown dwarf - because the Adaptive Optics System (NAOS) is designed to work with natural guide stars.
+For spectroscopy we observe simultaneously the parent dwarf and its companion(2M1207b) at coordinates: RA: 12h:07m:34.01s, dec: -39d:32m:58.9s
+
+We will use the following filters for imaging:
+
+\begin{tabular}{ |c|c|c|c| }
+\hline
+name & central wavelength($\mu m$) & width($\mu m$) & limit magnitude\\
+\hline
+J & 1.265 & 0.25 & 24.05 \\
+\hline
+H & 1.66 & 0.33 & 24.05 \\
+\hline
+Ks & 2.18 & 0.35 & 23.35 \\
+\hline
+L' & 3.80 & 0.62 & 18.55\\
+\hline
+\end{tabular}
  }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
