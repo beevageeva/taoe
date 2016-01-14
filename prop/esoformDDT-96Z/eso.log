@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.12.27)  29 DEC 2015 07:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2016.1.7)  13 JAN 2016 21:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **eso.tex
 (./eso.tex
 LaTeX2e <2011/06/27>
-Babel <3.9k> and hyphenation patterns for 3 languages loaded.
+Babel <3.9k> and hyphenation patterns for 2 languages loaded.
 (./esoform.cls
 Document Class: esoform 
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -110,20 +110,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 74.
 LaTeX Font Info:    ... okay on input line 74.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 74.
 LaTeX Font Info:    ... okay on input line 74.
- (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count113
-\scratchdimen=\dimen105
-\scratchbox=\box26
-\nofMPsegments=\count114
-\nofMParguments=\count115
-\everyMPshowfont=\toks15
-\MPscratchCnt=\count116
-\MPscratchDim=\dimen106
-\MPnumerator=\count117
-\makeMPintoPDFobject=\count118
-\everyMPtoPDFconversion=\toks16
-) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
 
@@ -180,34 +167,53 @@ It should be one of: A1 A2 A3 A4 A5 A6 A7 A8 B1 B2 B3 B4 B5 B6 B7 B8 B9 C1 C2 C
 <esologo.pdf, id=1, 2677.00125pt x 3491.0425pt>
 File: esologo.pdf Graphic file (type pdf)
  <use esologo.pdf>
-Package pdftex.def Info: esologo.pdf used on input line 1261.
+Package pdftex.def Info: esologo.pdf used on input line 1393.
 (pdftex.def)             Requested size: 65.438pt x 85.35826pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 1261.
+(Font)              <6> on input line 1393.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 1261.
-LaTeX Font Info:    Try loading font information for U+lasy on input line 1261.
+(Font)              <5> on input line 1393.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 1393.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 ) X0
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 1261.
+(Font)              <7> on input line 1393.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <13> not available
-(Font)              size <12> substituted on input line 1261.
+(Font)              size <12> substituted on input line 1393.
 
 [1
 
 {/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map} <./esologo.p
-df>] [2] <2mass.png, id=27, 1172.38pt x 539.01375pt>
+df>]
+Missing character: There is no â in font cmr10!
+Missing character: There is no ˆ in font cmr10!
+Missing character: There is no ’ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no ˆ in font cmr10!
+Missing character: There is no ’ in font cmr10!
+ [2] <2mass.png, id=31, 1172.38pt x 539.01375pt>
 File: 2mass.png Graphic file (type png)
  <use 2mass.png>
-Package pdftex.def Info: 2mass.png used on input line 1261.
+Package pdftex.def Info: 2mass.png used on input line 1393.
 (pdftex.def)             Requested size: 426.77919pt x 227.62614pt.
- [3 <./2mass.png>]
+
+<spComp.png, id=33, 317.185pt x 301.125pt>
+File: spComp.png Graphic file (type png)
+ <use spComp.png>
+Package pdftex.def Info: spComp.png used on input line 1393.
+(pdftex.def)             Requested size: 284.5491pt x 227.63055pt.
+ [3 <./2mass.png> <./spComp.png>]
 Missing character: There is no â in font cmr10!
 Missing character: There is no ˆ in font cmr10!
 Missing character: There is no ’ in font cmr10!
@@ -219,13 +225,13 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
  [5]
-\runCount=\count119
-\tmprunCount=\count120
-\runLen=\count121
+\runCount=\count113
+\tmprunCount=\count114
+\runLen=\count115
  [6] [7]
-\insCount=\count122
-\tmpCount=\count123
-\insLen=\count124
+\insCount=\count116
+\tmpCount=\count117
+\insLen=\count118
  [8]
 
 ************************************************************************
@@ -248,28 +254,31 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 2327 strings out of 494990
- 31432 string characters out of 6180638
- 112638 words of memory out of 5000000
- 5531 multiletter control sequences out of 15000+600000
- 7702 words of font info for 30 fonts, out of 8000000 for 9000
- 34 hyphenation exceptions out of 8191
+ 2042 strings out of 495025
+ 27647 string characters out of 6181516
+ 114835 words of memory out of 5000000
+ 5244 multiletter control sequences out of 15000+600000
+ 8356 words of font info for 32 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
  41i,16n,28p,1155b,313s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-msy6.pfb>
-Output written on eso.pdf (8 pages, 3339457 bytes).
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx
+10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on eso.pdf (8 pages, 3873398 bytes).
 PDF statistics:
- 87 PDF objects out of 1000 (max. 8388607)
- 60 compressed objects within 1 object stream
+ 105 PDF objects out of 1000 (max. 8388607)
+ 72 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
